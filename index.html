@@ -1,264 +1,185 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sabak Ka Diri</title>
-  <style>
-    :root {
-      --primary: #ff6b6b;
-      --secondary: #4ecdc4;
-      --dark: #1a1a1a;
-      --light: #f7fff7;
-    }
-    
-    body {
-      background-color: var(--dark);
-      color: var(--light);
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      margin: 0;
-      background-image: 
-        radial-gradient(circle at 10% 20%, rgba(255, 107, 107, 0.1) 0%, transparent 20%),
-        radial-gradient(circle at 90% 80%, rgba(78, 205, 196, 0.1) 0%, transparent 20%),
-        linear-gradient(to bottom, #1a1a1a, #0d0d0d);
-      overflow: hidden;
-    }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sabak Ka Diri</title>
+<style>
+/* ---------- Root Theme ---------- */
+:root {
+  --primary: #ff5c8d;
+  --secondary: #4ecdc4;
+  --bg-dark: #121212;
+  --bg-panel: #1e1e1e;
+  --light: #f7f7f7;
+}
 
-    .player-container {
-      background: rgba(30, 30, 30, 0.8);
-      backdrop-filter: blur(10px);
-      border-radius: 20px;
-      padding: 30px;
-      width: 90%;
-      max-width: 500px;
-      box-shadow: 
-        0 10px 30px rgba(0, 0, 0, 0.5),
-        inset 0 0 10px rgba(255, 255, 255, 0.05);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      position: relative;
-      overflow: hidden;
-      z-index: 1;
-    }
+/* ---------- Page ---------- */
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: radial-gradient(circle at 20% 20%, rgba(255,92,141,.15), transparent 60%),
+              radial-gradient(circle at 80% 80%, rgba(78,205,196,.15), transparent 60%),
+              var(--bg-dark);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: var(--light);
+}
 
-    .player-container::before {
-      content: '';
-      position: absolute;
-      top: -50%;
-      left: -50%;
-      width: 200%;
-      height: 200%;
-      background: 
-        linear-gradient(45deg, transparent 65%, var(--primary) 65%, var(--primary) 70%, transparent 70%),
-        linear-gradient(-45deg, transparent 65%, var(--secondary) 65%, var(--secondary) 70%, transparent 70%);
-      background-size: 30px 30px;
-      opacity: 0.1;
-      animation: movePattern 60s linear infinite;
-      z-index: -1;
-    }
+/* ---------- Player Container ---------- */
+.player {
+  background: var(--bg-panel);
+  border-radius: 24px;
+  padding: 40px 30px;
+  width: 320px;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.6);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.player::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  opacity: 0.05;
+  z-index: 0;
+}
 
-    @keyframes movePattern {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
+/* ---------- Title ---------- */
+h1 {
+  position: relative;
+  z-index: 1;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  background: linear-gradient(90deg, var(--primary), var(--secondary));
+  -webkit-background-clip: text;
+  color: transparent;
+}
 
-    h1 {
-      margin-bottom: 30px;
-      font-size: 2.2rem;
-      text-align: center;
-      background: linear-gradient(to right, var(--primary), var(--secondary));
-      -webkit-background-clip: text;
-      background-clip: text;
-      color: transparent;
-      text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
-      position: relative;
-    }
+/* ---------- Album Art ---------- */
+.album {
+  position: relative;
+  width: 220px;
+  height: 220px;
+  margin: 0 auto 20px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  animation: spin 18s linear infinite;
+  animation-play-state: paused;
+}
+.album::after {
+  content: "";
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: var(--bg-panel);
+}
+.album-text {
+  font-size: 2rem;
+  font-weight: bold;
+  transform: rotate(-10deg);
+  z-index: 1;
+}
 
-    h1::after {
-      content: '';
-      display: block;
-      width: 60px;
-      height: 3px;
-      background: linear-gradient(to right, var(--primary), var(--secondary));
-      margin: 10px auto 0;
-      border-radius: 3px;
-    }
+/* ---------- Song Info ---------- */
+.song-info {
+  z-index: 1;
+  margin-bottom: 15px;
+}
+.song-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.artist {
+  color: var(--secondary);
+  font-style: italic;
+}
 
-    .album-art {
-      width: 200px;
-      height: 200px;
-      border-radius: 50%;
-      margin: 0 auto 25px;
-      background: linear-gradient(135deg, var(--primary), var(--secondary));
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-      position: relative;
-      overflow: hidden;
-      animation: rotateAlbumArt 20s linear infinite;
-      animation-play-state: paused;
-    }
+/* ---------- Visualizer ---------- */
+.visualizer {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 4px;
+  height: 60px;
+  margin-bottom: 20px;
+}
+.bar {
+  width: 6px;
+  height: 10px;
+  border-radius: 3px;
+  background: linear-gradient(to top, var(--primary), var(--secondary));
+  animation: equalize 1.4s ease-in-out infinite;
+  animation-play-state: paused;
+}
+.bar:nth-child(2){animation-delay: .2s;}
+.bar:nth-child(3){animation-delay: .4s;}
+.bar:nth-child(4){animation-delay: .1s;}
+.bar:nth-child(5){animation-delay: .3s;}
+.bar:nth-child(6){animation-delay: .5s;}
+.bar:nth-child(7){animation-delay: .2s;}
+.bar:nth-child(8){animation-delay: .4s;}
 
-    .album-art::before {
-      content: '';
-      position: absolute;
-      width: 50%;
-      height: 50%;
-      border-radius: 50%;
-      background: rgba(0, 0, 0, 0.3);
-    }
+/* ---------- Audio Controls ---------- */
+audio {
+  width: 100%;
+  outline: none;
+  filter: drop-shadow(0 5px 15px rgba(0,0,0,0.4));
+  border-radius: 10px;
+}
 
-    .album-art::after {
-      content: '';
-      position: absolute;
-      width: 20%;
-      height: 20%;
-      border-radius: 50%;
-      background: var(--light);
-    }
+/* ---------- Animations ---------- */
+@keyframes spin {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+}
+@keyframes equalize {
+  0%,100%{height:10px;}
+  50%{height:60px;}
+}
 
-    .album-text {
-      font-size: 3rem;
-      font-weight: bold;
-      color: rgba(255, 255, 255, 0.8);
-      transform: rotate(-10deg);
-    }
-
-    audio {
-      width: 100%;
-      margin-top: 20px;
-      filter: drop-shadow(0 5px 15px rgba(0, 0, 0, 0.3));
-    }
-
-    audio::-webkit-media-controls-panel {
-      background: rgba(40, 40, 40, 0.9);
-      border-radius: 10px;
-      border: 1px solid rgba(255, 255, 255, 0.1);
-    }
-
-    audio::-webkit-media-controls-play-button,
-    audio::-webkit-media-controls-mute-button {
-      background: linear-gradient(to bottom, var(--primary), var(--secondary));
-      border-radius: 50%;
-    }
-
-    audio::-webkit-media-controls-current-time-display,
-    audio::-webkit-media-controls-time-remaining-display {
-      color: var(--light);
-    }
-
-    .visualizer {
-      width: 100%;
-      height: 80px;
-      display: flex;
-      align-items: flex-end;
-      justify-content: center;
-      gap: 5px;
-      margin-bottom: 20px;
-    }
-
-    .bar {
-      width: 8px;
-      background: linear-gradient(to top, var(--primary), var(--secondary));
-      border-radius: 5px;
-      animation: equalizer 1.5s infinite ease-in-out;
-      animation-play-state: paused;
-    }
-
-    @keyframes equalizer {
-      0%, 100% { height: 10px; }
-      50% { height: 80px; }
-    }
-
-    .bar:nth-child(1) { animation-delay: 0.1s; }
-    .bar:nth-child(2) { animation-delay: 0.3s; }
-    .bar:nth-child(3) { animation-delay: 0.5s; }
-    .bar:nth-child(4) { animation-delay: 0.2s; }
-    .bar:nth-child(5) { animation-delay: 0.4s; }
-    .bar:nth-child(6) { animation-delay: 0.6s; }
-    .bar:nth-child(7) { animation-delay: 0.3s; }
-    .bar:nth-child(8) { animation-delay: 0.5s; }
-
-    @keyframes rotateAlbumArt {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
-
-    .playing .album-art {
-      animation-play-state: running;
-    }
-
-    .playing .bar {
-      animation-play-state: running;
-    }
-
-    .song-info {
-      text-align: center;
-      margin-bottom: 20px;
-    }
-
-    .song-title {
-      font-size: 1.5rem;
-      font-weight: bold;
-      margin-bottom: 5px;
-    }
-
-    .artist {
-      color: var(--secondary);
-      font-style: italic;
-    }
-  </style>
+/* ---------- Active State ---------- */
+.playing .album { animation-play-state: running; }
+.playing .bar   { animation-play-state: running; }
+</style>
 </head>
 <body>
-  <div class="player-container">
+  <div class="player" id="player">
     <h1>Sabak Ka Diri</h1>
-    
+    <div class="album" id="album">
+      <div class="album-text">ELIAS TV</div>
+    </div>
+
     <div class="song-info">
       <div class="song-title">Sabak Ka Diri</div>
       <div class="artist">Elias</div>
     </div>
-    
-    <div class="album-art">
-      <div class="album-text">ELIAS TV</div>
-    </div>
-    
+
     <div class="visualizer">
-      <div class="bar"></div>
-      <div class="bar"></div>
-      <div class="bar"></div>
-      <div class="bar"></div>
-      <div class="bar"></div>
-      <div class="bar"></div>
-      <div class="bar"></div>
-      <div class="bar"></div>
+      <div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div>
+      <div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div>
     </div>
-    
-    <audio id="audioPlayer" controls>
-      <source src="Sabak_Ka_Diri_-_Elias__Lyrics___Sabak_ka_diri_Reggae_By_Elias_(128k).m4a" type="audio/mp4" />
+
+    <audio id="audio" controls>
+      <source src="https://raw.github.com/Krm-Revolution/idk-sterling/main/Sabak_Ka_Diri_-_Elias__Lyrics___Sabak_ka_diri_Reggae_By_Elias_(128k).m4a" type="audio/mp4">
       Your browser does not support the audio element.
     </audio>
   </div>
 
-  <script>
-    const audioPlayer = document.getElementById('audioPlayer');
-    const playerContainer = document.querySelector('.player-container');
-    const albumArt = document.querySelector('.album-art');
-    const bars = document.querySelectorAll('.bar');
-    
-    audioPlayer.addEventListener('play', () => {
-      playerContainer.classList.add('playing');
-    });
-    
-    audioPlayer.addEventListener('pause', () => {
-      playerContainer.classList.remove('playing');
-    });
-    
-    //DAI ALI DIRI SABAK KA DIRI
-  </script>
+<script>
+const audio = document.getElementById('audio');
+const player = document.getElementById('player');
+
+audio.addEventListener('play', ()=> player.classList.add('playing'));
+audio.addEventListener('pause',()=> player.classList.remove('playing'));
+</script>
 </body>
 </html>
