@@ -223,33 +223,6 @@
             background: rgba(147, 112, 219, 0.5);
         }
         
-        .music-player {
-            position: fixed;
-            bottom: 25px;
-            right: 25px;
-            background: rgba(20, 20, 20, 0.9);
-            border: 2px solid rgba(147, 112, 219, 0.3);
-            border-radius: 50px;
-            padding: 10px 15px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            color: #fff;
-        }
-        
-        .music-control {
-            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
-            border: none;
-            border-radius: 50%;
-            width: 45px;
-            height: 45px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #fff;
-            cursor: pointer;
-        }
-        
         .welcome-overlay {
             position: fixed;
             top: 0;
@@ -419,7 +392,7 @@
         <source src="https://raw.githubusercontent.com/Krm-Revolution/Idk-sterling/main/snaptik_7547327226526584086_v2.mp4" type="video/mp4">
     </video>
 
-    <audio id="bgMusic" loop>
+    <audio id="bgMusic" loop autoplay>
         <source src="https://raw.githubusercontent.com/Krm-Revolution/Idk-sterling/main/The_Weeknd%2C_Playboi_Carti_-_Timeless__INSTRUMENTAL_(128k).mp3" type="audio/mpeg">
     </audio>
 
@@ -531,51 +504,16 @@
                     </button>
                 </form>
             </div>
-            <!--
-            <div class="contact-methods">
-                <div class="contact-method">
-                    <i class="fas fa-envelope gmail-icon"></i>
-                    <span>bryljohnt@gmail.com</span>
-                </div>
-                <div class="contact-method">
-                    <i class="fas fa-copy"></i>
-                    <span id="BURAT">COPY EMAIL</span>
-                </div>
-            </div>
-          -->
         </div>
     </section>
-    
-    <div class="music-player">
-        <button class="music-control" id="playPause" title="Play/Pause Music">
-            <i class="fas fa-play"></i>
-        </button>
-        <span>TIMELESS😀</span>
-    </div>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         const bgMusic = document.getElementById("bgMusic");
-        const playBtn = document.getElementById("playPause");
-        const icon = playBtn.querySelector("i");
         const overlay = document.getElementById("welcomeOverlay");
         const contactForm = document.getElementById("contactForm");
-        /*const copyTextElement = document.getElementById("BURAT");*/
         
         bgMusic.volume = 0.3;
-        
-        function updateBtn() {
-            icon.className = bgMusic.paused ? "fas fa-play" : "fas fa-pause";
-        }
-        
-        function toggleMusic() {
-            if (bgMusic.paused) {
-                bgMusic.play();
-            } else {
-                bgMusic.pause();
-            }
-            updateBtn();
-        }
         
         function handleFormSubmit(event) {
             event.preventDefault();
@@ -600,33 +538,6 @@
             
             contactForm.reset();
         }
-        /*
-        function copyEmailToClipboard() {
-            navigator.clipboard.writeText("bryljohnt@gmail.com").then(() => {
-                const originalText = copyTextElement.textContent;
-                copyTextElement.textContent = "Copied!";
-                
-                Swal.fire({
-                    title: 'Email Copied!',
-                    text: 'bryljohnt@gmail.com has been copied to your clipboard',
-                    icon: 'success',
-                    confirmButtonColor: '#9370DB',
-                    background: 'rgba(20, 20, 20, 0.9)',
-                    color: '#fff',
-                    timer: 2000,
-                    showConfirmButton: false
-                });
-                
-                setTimeout(() => {
-                    copyTextElement.textContent = originalText;
-                }, 2000);
-            });
-        }
-        */
-        playBtn.addEventListener("click", e => {
-            e.stopPropagation();
-            toggleMusic();
-        });
         
         overlay.addEventListener("click", () => {
             overlay.style.opacity = 0;
@@ -668,11 +579,6 @@
         });
         
         contactForm.addEventListener('submit', handleFormSubmit);
-        
-        copyTextElement.addEventListener('click', copyEmailToClipboard);
-        
-        bgMusic.addEventListener('play', updateBtn);
-        bgMusic.addEventListener('pause', updateBtn);
     </script>
 </body>
 </html>
