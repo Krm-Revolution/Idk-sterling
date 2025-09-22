@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>NARUTO EDIT</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--h:64px;--spinner:28px}
+body{background:#000;color:#fff;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;min-height:100vh;overflow:hidden}
+#bg{position:fixed;inset:0;z-index:0}
+header{position:fixed;top:0;left:0;right:0;height:var(--h);display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,.7);backdrop-filter:blur(10px);z-index:10}
+.h-title{font-size:20px;font-weight:900;letter-spacing:.5px;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,violet,red);-webkit-background-clip:text;background-clip:text;color:transparent;animation:rgb 4s linear infinite}
+@keyframes rgb{0%{filter:hue-rotate(0)}100%{filter:hue-rotate(360deg)}}
+.h-left{position:absolute;left:10px;display:flex;align-items:center;gap:6px;font-size:18px}
+.h-actions{position:absolute;right:10px;display:flex;gap:8px}
+.btn-icon{height:36px;width:36px;display:flex;align-items:center;justify-content:center;border-radius:50%;border:1px solid #333;background:#111;color:#fff;font-size:18px;cursor:pointer;transition:transform .2s}
+.btn-icon:active{transform:scale(.9)}
+.btn-icon.spin{animation:rotate .8s linear infinite}
+@keyframes rotate{to{transform:rotate(360deg)}}
+main{position:relative;z-index:1;padding-top:var(--h)}
+#pull{position:absolute;top:var(--h);left:0;right:0;height:54px;display:flex;align-items:center;justify-content:center;transform:translateY(-54px);transition:transform .2s}
+.spinner{width:var(--spinner);height:var(--spinner);border-radius:50%;border:3px solid #333;border-top-color:#fff;animation:spin 1s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+#feed{scroll-snap-type:y mandatory;height:calc(100vh - var(--h));overflow:auto;overscroll-behavior-y:contain;-webkit-overflow-scrolling:touch}
+.page{height:calc(100vh - var(--h));scroll-snap-align:start;display:flex;flex-direction:column;align-items:center;justify-content:flex-start}
+.vwrap{flex:1;width:100%;position:relative;display:flex;align-items:center;justify-content:center;background:#000}
+video{width:100%;height:100%;object-fit:cover;background:#000}
+.info{width:100%;padding:12px;background:#0d0d0d;border-top:1px solid #111}
+.title{font-size:16px;font-weight:800;margin-bottom:6px;line-height:1.3}
+.hash{font-size:14px;color:#aaa;line-height:1.3;word-break:break-word}
+.empty{height:calc(100vh - var(--h));display:grid;place-items:center;color:#999}
+</style>
+</head>
+<body>
+<canvas id="bg"></canvas>
+<header>
+  <div class="h-left">
+      <i id="signal" class="bi bi-reception-4"></i>
+          <i id="network" class="bi bi-wifi"></i>
+            </div>
+              <div class="h-title">NARUTO EDIT</div>
+                <div class="h-actions">
+                    <button id="renew" class="btn-icon"><i class="bi bi-arrow-repeat"></i></button>
+                      </div>
+                      </header>
+                      <main>
+                        <div id="pull"><div class="spinner"></div></div>
+                          <div id="feed"><div class="empty">Loading…</div></div>
+                          </main>
+                          <script>
+                          const prompts=[
+                            "naruto edit","naruto sad edit","sasuke edit","itachi edit","madara edit",
+                              "naruto vs sasuke","pain edit","hinata edit","kakashi edit","gaara edit",
+                                "rock lee edit","obito edit","neji edit","naruto amv","naruto opening",
+                                  "blue bird naruto","silhouette naruto","haruka kanata naruto","sign naruto op",
+                                    "fighting dreamers naruto","naruto vs pain","naruto sage mode","kurama edit","nine tails edit",
+                                      "akatsuki edit","uchiha edit","sharingan edit","rinnegan edit","naruto storm edit",
+                                        "boruto edit","naruto shippuden edit","naruto epic fight","naruto emotional edit","naruto ost edit",
+                                          "naruto sad ost","naruto tribute","naruto vs obito","naruto vs madara","naruto vs kaguya",
+                                            "team 7 edit","naruto best moments","anime edit naruto","naruto battle amv","naruto shonen edit",
+                                              "susanoo edit","naruto akatsuki music","naruto intense fight","naruto rap amv","naruto lofi edit","naruto sad amv"
+                                              ];
+
+                                              let currentPrompt=prompts[0];
+                                              let observer,currentVideo=null,loading=false,isPulling=false,startY=0,dragY=0,threshold=70,refreshing=false;
+                                              const feed=document.getElementById("feed"),pull=document.getElementById("pull"),renew=document.getElementById("renew");
+                                              const signal=document.getElementById("signal"),network=document.getElementById("network");
+
+                                              function extractHashtags(t){if(!t)return"";const m=t.match(/#[\p{L}\p{N}_]+/gu);return m?m.join(" "):""}
+
+                                              function createPage(item){
+                                                const page=document.createElement("section");page.className="page";
+                                                  const wrap=document.createElement("div");wrap.className="vwrap";
+                                                    const v=document.createElement("video");
+                                                      v.preload="none";v.playsInline=true;v.muted=false;v.controls=false;v.src=item.play;v.poster=item.cover;
+                                                        wrap.appendChild(v);
+                                                          const info=document.createElement("div");info.className="info";
+                                                            const title=document.createElement("div");title.className="title";title.textContent=item.title||"";
+                                                              const hash=document.createElement("div");hash.className="hash";hash.textContent=extractHashtags(item.title||"");
+                                                                info.appendChild(title);info.appendChild(hash);
+                                                                  page.appendChild(wrap);page.appendChild(info);
+                                                                    v.addEventListener("click",()=>{if(v.paused){if(currentVideo&&currentVideo!==v){currentVideo.pause()}v.play().catch(()=>{});currentVideo=v}else{v.pause()}});
+                                                                      v.addEventListener("play",()=>{if(currentVideo&&currentVideo!==v)currentVideo.pause();currentVideo=v});
+                                                                        return page
+                                                                        }
+
+                                                                        function setupObserver(){
+                                                                          if(observer)observer.disconnect();
+                                                                            observer=new IntersectionObserver(entries=>{
+                                                                                entries.forEach(e=>{const v=e.target;if(!e.isIntersecting&&v===currentVideo)v.pause()})
+                                                                                  },{threshold:[0.6]});
+                                                                                    document.querySelectorAll("video").forEach(v=>observer.observe(v));
+                                                                                    }
+
+                                                                                    function render(videos){
+                                                                                      feed.innerHTML="";
+                                                                                        if(!videos||!videos.length){feed.innerHTML='<div class="empty">No videos</div>';return}
+                                                                                          const frag=document.createDocumentFragment();
+                                                                                            videos.forEach(it=>frag.appendChild(createPage(it)));
+                                                                                              feed.appendChild(frag);
+                                                                                                setupObserver()
+                                                                                                }
+
+                                                                                                async function loadFeed(isRefresh=false){
+                                                                                                  if(loading)return;loading=true;
+                                                                                                    const empty=document.querySelector(".empty");if(empty)empty.textContent="Loading…";
+                                                                                                      try{
+                                                                                                          const url=`https://www.tikwm.com/api/feed/search?keywords=${encodeURIComponent(currentPrompt)}`;
+                                                                                                              const res=await fetch(url,{cache:"no-store"});if(!res.ok)throw new Error("Network");
+                                                                                                                  const json=await res.json();
+                                                                                                                      const vids=(json&&json.data&&Array.isArray(json.data.videos))?json.data.videos:[];
+                                                                                                                          render(vids.slice(0,30));
+                                                                                                                              if(isRefresh){feed.scrollTo({top:0,behavior:"instant"})}
+                                                                                                                                }catch(e){feed.innerHTML='<div class="empty">Failed to load.</div>'}
+                                                                                                                                  finally{loading=false;refreshing=false;pull.style.transition="transform .2s";pull.style.transform="translateY(-54px)";renew.classList.remove("spin")}
+                                                                                                                                  }
+
+                                                                                                                                  renew.addEventListener("click",()=>{
+                                                                                                                                    if(!loading){
+                                                                                                                                        renew.classList.add("spin");
+                                                                                                                                            currentPrompt=prompts[Math.floor(Math.random()*prompts.length)];
+                                                                                                                                                refreshing=true;
+                                                                                                                                                    pull.style.transform="translateY(0)";
+                                                                                                                                                        loadFeed(true);
+                                                                                                                                                          }
+                                                                                                                                                          });
+
+                                                                                                                                                          feed.addEventListener("touchstart",e=>{if(feed.scrollTop<=0&&!loading){isPulling=true;startY=e.touches[0].clientY;dragY=0;pull.style.transition="none"}});
+                                                                                                                                                          feed.addEventListener("touchmove",e=>{if(!isPulling)return;const y=e.touches[0].clientY;dragY=Math.max(0,y-startY);if(dragY>0){pull.style.transform=`translateY(${Math.min(dragY-54, threshold)}px)`}});
+                                                                                                                                                          function endPull(){if(!isPulling)return;isPulling=false;if(dragY>threshold&&!loading){refreshing=true;pull.style.transition="transform .2s";pull.style.transform="translateY(0)";loadFeed(true)}else{pull.style.transition="transform .2s";pull.style.transform="translateY(-54px)"}}
+                                                                                                                                                          feed.addEventListener("touchend",endPull);feed.addEventListener("touchcancel",endPull);
+
+                                                                                                                                                          document.addEventListener("visibilitychange",()=>{if(document.hidden&&currentVideo)currentVideo.pause()});
+
+                                                                                                                                                          loadFeed();
+
+                                                                                                                                                          // network detection
+                                                                                                                                                          function updateNetwork(){
+                                                                                                                                                            if(navigator.onLine){
+                                                                                                                                                                network.className="bi bi-wifi";
+                                                                                                                                                                  }else{
+                                                                                                                                                                      network.className="bi bi-wifi-off text-danger";
+                                                                                                                                                                        }
+                                                                                                                                                                        }
+                                                                                                                                                                        window.addEventListener("online",updateNetwork);
+                                                                                                                                                                        window.addEventListener("offline",updateNetwork);
+                                                                                                                                                                        updateNetwork();
+
+                                                                                                                                                                        // fake mobile signal simulation
+                                                                                                                                                                        function updateSignal(){
+                                                                                                                                                                          const lvl=Math.floor(Math.random()*5);
+                                                                                                                                                                            signal.className="bi bi-reception-"+lvl;
+                                                                                                                                                                            }
+                                                                                                                                                                            setInterval(updateSignal,4000);
+
+                                                                                                                                                                            // particle background
+                                                                                                                                                                            const c=document.getElementById("bg"),ctx=c.getContext("2d");let px=[],w=0,h=0;
+                                                                                                                                                                            function rs(){w=window.innerWidth;h=window.innerHeight;c.width=w;c.height=h}
+                                                                                                                                                                            function mk(n){px=[];for(let i=0;i<n;i++){px.push({x:Math.random()*w,y:Math.random()*h,vx:(Math.random()-.5)*.4,vy:(Math.random()-.5)*.4,r:Math.random()*2+0.5})}}
+                                                                                                                                                                            function step(){ctx.clearRect(0,0,w,h);for(const p of px){p.x+=p.vx;p.y+=p.vy;if(p.x<0||p.x>w)p.vx*=-1;if(p.y<0||p.y>h)p.vy*=-1;ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fillStyle="rgba(255,255,255,.14)";ctx.fill()}for(let i=0;i<px.length;i++){for(let j=i+1;j<px.length;j++){const a=px[i],b=px[j];const dx=a.x-b.x,dy=a.y-b.y;const d=dx*dx+dy*dy;if(d<9000){const op=1-d/9000;ctx.globalAlpha=op*.25;ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.strokeStyle="#fff";ctx.lineWidth=1;ctx.stroke();ctx.globalAlpha=1}}}requestAnimationFrame(step)}
+                                                                                                                                                                            rs();mk(70);step();window.addEventListener("resize",()=>{rs();mk(70)});
+                                                                                                                                                                            </script>
+                                                                                                                                                                            </body>
+                                                                                                                                                                            </html>
