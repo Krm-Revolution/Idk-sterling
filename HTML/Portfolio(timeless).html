@@ -5,8 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="https://i.ibb.co/F4yyLpry/Hacker-man-meme-3-1674059150.jpg" type="image/jpeg">
     <title>Bryl[🃏]John:)</title>
-    
-    <!-- Bootstrap & Icons -->
+    <!-- HELPERS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -128,6 +127,7 @@
             max-width: 800px;
             text-align: center;
             border: 1px solid rgba(255, 255, 255, 0.15);
+            width: 100%;
         }
         
         .glass-container h2 {
@@ -242,7 +242,6 @@
             color: #fff;
         }
         
-        /* Contact Form Styles */
         .contact-form-container {
             width: 100%;
             max-width: 600px;
@@ -336,6 +335,227 @@
             color: #DB4437 !important;
         }
         
+        .quote-container {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 15px;
+            padding: 20px;
+            margin: 20px 0;
+            text-align: center;
+        }
+        
+        .ph-time {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        
+        .ph-date {
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            opacity: 0.9;
+        }
+        
+        .daily-quote {
+            font-style: italic;
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin: 15px 0;
+            padding: 15px;
+            border-left: 3px solid var(--primary-color);
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 0 10px 10px 0;
+        }
+        
+        .quote-author {
+            text-align: right;
+            font-weight: 500;
+            opacity: 0.8;
+        }
+        
+        .chat-container {
+            width: 100%;
+            max-width: 100%;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 15px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        
+        .chat-header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 15px;
+        }
+        
+        .bot-icon {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 10px;
+            font-size: 14px;
+        }
+        
+        .chat-header h3 {
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+        
+        .chat-messages {
+            height: 200px;
+            overflow-y: auto;
+            padding: 15px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            margin-bottom: 15px;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .message {
+            max-width: 80%;
+            padding: 8px 12px;
+            margin-bottom: 8px;
+            border-radius: 12px;
+            word-wrap: break-word;
+            font-size: 14px;
+        }
+        
+        .user-message {
+            align-self: flex-end;
+            background: rgba(147, 112, 219, 0.3);
+            border: 1px solid rgba(147, 112, 219, 0.5);
+        }
+        
+        .bot-message {
+            align-self: flex-start;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        
+        .chat-input-container {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .chat-input {
+            flex: 2;
+            padding: 4px 4px;
+            background: rgba(255, 255, 255, 0.08);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 10px;
+            color: #fff;
+            font-size: 14px;
+        }
+        
+        .chat-input:focus {
+            outline: none;
+            border-color: rgba(147, 112, 219, 0.6);
+        }
+        
+        .chat-send-btn {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            border: none;
+            border-radius: 20px;
+            padding: 10px 20px;
+            color: white;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 14px;
+        }
+        
+        .chat-send-btn:hover {
+            transform: scale(1.05);
+        }
+        
+        .image-generator {
+            width: 100%;
+            max-width: 100%;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 15px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        
+        .gen-input-container {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .gen-input {
+            flex: 2;
+            padding: 4px 4px;
+            background: rgba(255, 255, 255, 0.08);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 10px;
+            color: #fff;
+            font-size: 14px;
+        }
+        
+        .gen-input:focus {
+            outline: none;
+            border-color: rgba(147, 112, 219, 0.6);
+        }
+        
+        .gen-btn {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            border: none;
+            border-radius: 20px;
+            padding: 10px 20px;
+            color: white;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 14px;
+        }
+        
+        .gen-btn:hover {
+            transform: scale(1.05);
+        }
+        
+        .image-result {
+            width: 100%;
+            height: 200px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+        
+        .generated-image {
+            max-width: 100%;
+            max-height: 100%;
+            border-radius: 10px;
+        }
+        
+        .loading-spinner {
+            display: none;
+            width: 30px;
+            height: 30px;
+            border: 3px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top: 3px solid var(--primary-color);
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        #image-placeholder {
+            font-size: 14px;
+            opacity: 0.7;
+        }
+        
         @media (max-width: 768px) {
             .header-title {
                 font-size: 1.5rem;
@@ -377,6 +597,22 @@
                 width: 100%;
                 justify-content: center;
             }
+            
+            .message {
+                max-width: 90%;
+            }
+            
+            .chat-messages {
+                height: 180px;
+            }
+            
+            .image-result {
+                height: 180px;
+            }
+            
+            .chat-header h3 {
+                font-size: 1.1rem;
+            }
         }
     </style>
 </head>
@@ -417,10 +653,19 @@
                                 <a class="nav-link" href="#about">About</a>
                             </li>
                             <li class="nav-item">
+                                <a class="nav-link" href="#quote">Daily Quote</a>
+                            </li>
+                            <li class="nav-item">
                                 <a class="nav-link" href="#socials">Socials</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#donation">Support</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#chatbot">MyBot Assistant</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#imagegen">MyBot GenImage</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#contact">Contact</a>
@@ -440,6 +685,20 @@
             <p class="about-text" style="font-style: italic;">
                 "anything is impossible i mean possible vroh 🔥"
             </p>
+        </div>
+    </section>
+    
+    <section id="quote">
+        <div class="glass-container">
+            <h2>Daily Inspiration</h2>
+            <div class="quote-container">
+                <div class="ph-time" id="philippines-time"></div>
+                <div class="ph-date" id="philippines-date"></div>
+                <div class="daily-quote" id="daily-quote">
+                    "The best way to predict the future is to create it."
+                </div>
+                <div class="quote-author" id="quote-author">- Abraham Lincoln</div>
+            </div>
         </div>
     </section>
     
@@ -469,6 +728,64 @@
             <a href="https://buymeacoffee.com/BrylJohn" class="donation-btn" target="_blank">
                 <i class="fas fa-coffee me-2"></i> Buy Me a Coffee
             </a>
+        </div>
+    </section>
+    
+    <section id="chatbot">
+        <div class="glass-container">
+            <h2>MyBot Assistant</h2>
+            <p class="about-text">Chat with my AI assistant!</p>
+            
+            <div class="chat-container">
+                <div class="chat-header">
+                    <div class="bot-icon">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <h3>MyBot Assistant</h3>
+                </div>
+                
+                <div class="chat-messages" id="chat-messages">
+                    <div class="message bot-message">
+                        Hey there! I'm Your Assistant. How can I help you today? 😊
+                    </div>
+                </div>
+                
+                <div class="chat-input-container">
+                    <input type="text" class="chat-input" id="chat-input" placeholder="PUT YOUR TEXT HERE...">
+                    <button class="chat-send-btn" id="chat-send">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="imagegen">
+        <div class="glass-container">
+            <h2>MyBot GenImage</h2>
+            <p class="about-text">Generate images with AI!</p>
+            
+            <div class="image-generator">
+                <div class="chat-header">
+                    <div class="bot-icon">
+                        <i class="fas fa-image"></i>
+                    </div>
+                    <h3>Image Generator</h3>
+                </div>
+                
+                <div class="gen-input-container">
+                    <input type="text" class="gen-input" id="image-prompt" placeholder="PUT YOUR TEXT HERE...">
+                    <button class="gen-btn" id="generate-btn">
+                        Generate
+                    </button>
+                </div>
+                
+                <div class="image-result" id="image-result">
+                    <div class="loading-spinner" id="image-loading"></div>
+                    <img class="generated-image" id="generated-image" style="display: none;">
+                    <p id="image-placeholder">Your generated image will appear here</p>
+                </div>
+            </div>
         </div>
     </section>
     
@@ -512,8 +829,150 @@
         const bgMusic = document.getElementById("bgMusic");
         const overlay = document.getElementById("welcomeOverlay");
         const contactForm = document.getElementById("contactForm");
+        const phTime = document.getElementById("philippines-time");
+        const phDate = document.getElementById("philippines-date");
+        const dailyQuote = document.getElementById("daily-quote");
+        const quoteAuthor = document.getElementById("quote-author");
+        const chatMessages = document.getElementById("chat-messages");
+        const chatInput = document.getElementById("chat-input");
+        const chatSend = document.getElementById("chat-send");
+        const imagePrompt = document.getElementById("image-prompt");
+        const generateBtn = document.getElementById("generate-btn");
+        const imageResult = document.getElementById("image-result");
+        const generatedImage = document.getElementById("generated-image");
+        const imageLoading = document.getElementById("image-loading");
+        const imagePlaceholder = document.getElementById("image-placeholder");
         
         bgMusic.volume = 0.3;
+        
+        const quotes = [
+            {
+                text: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+                author: "Nelson Mandela"
+            },
+            {
+                text: "The way to get started is to quit talking and begin doing.",
+                author: "Walt Disney"
+            },
+            {
+                text: "Your time is limited, so don't waste it living someone else's life.",
+                author: "Steve Jobs"
+            },
+            {
+                text: "If life were predictable it would cease to be life, and be without flavor.",
+                author: "Eleanor Roosevelt"
+            },
+            {
+                text: "If you look at what you have in life, you'll always have more.",
+                author: "Oprah Winfrey"
+            },
+            {
+                text: "Life is what happens when you're busy making other plans.",
+                author: "John Lennon"
+            },
+            {
+                text: "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+                author: "Mother Teresa"
+            },
+            {
+                text: "The future belongs to those who believe in the beauty of their dreams.",
+                author: "Eleanor Roosevelt"
+            },
+            {
+                text: "Whoever is happy will make others happy too.",
+                author: "Anne Frank"
+            },
+            {
+                text: "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+                author: "Ralph Waldo Emerson"
+            },
+            {
+                text: "EVEN IM NOT COOL AT LEAST IM WORKING ON SILENT MODE",
+                author: "Bryl"
+            }
+        ];
+        
+        function updatePhilippinesTime() {
+            const options = { 
+                timeZone: 'Asia/Manila', 
+                hour12: true, 
+                hour: 'numeric', 
+                minute: 'numeric', 
+                second: 'numeric' 
+            };
+            const dateOptions = { 
+                timeZone: 'Asia/Manila', 
+                weekday: 'long', 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric' 
+            };
+            
+            const now = new Date();
+            phTime.textContent = now.toLocaleTimeString('en-US', options);
+            phDate.textContent = now.toLocaleDateString('en-US', dateOptions);
+        }
+        
+        function setRandomQuote() {
+            const randomIndex = Math.floor(Math.random() * quotes.length);
+            dailyQuote.textContent = `"${quotes[randomIndex].text}"`;
+            quoteAuthor.textContent = `- ${quotes[randomIndex].author}`;
+        }
+        
+        async function sendChatMessage() {
+            const message = chatInput.value.trim();
+            if (!message) return;
+            
+            addMessageToChat(message, 'user');
+            chatInput.value = '';
+            
+            try {
+                const response = await fetch(`https://yq-cloud.vercel.app/chat?q=${encodeURIComponent(message)}`);
+                const data = await response.json();
+                
+                addMessageToChat(data.response, 'bot');
+            } catch (error) {
+                addMessageToChat("Sorry, I'm having trouble connecting right now. Please try again later.", 'bot');
+            }
+        }
+        
+        function addMessageToChat(message, sender) {
+            const messageElement = document.createElement('div');
+            messageElement.classList.add('message');
+            messageElement.classList.add(sender === 'user' ? 'user-message' : 'bot-message');
+            messageElement.textContent = message;
+            
+            chatMessages.appendChild(messageElement);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+        
+        async function generateImage() {
+            const prompt = imagePrompt.value.trim();
+            if (!prompt) return;
+            
+            imageLoading.style.display = 'block';
+            generatedImage.style.display = 'none';
+            imagePlaceholder.style.display = 'none';
+            
+            try {
+                const response = await fetch(`https://mybot-rest.kozow.com/api/art?prompt=${encodeURIComponent(prompt)}`);
+                
+                if (response.ok) {
+                    const imageBlob = await response.blob();
+                    const imageUrl = URL.createObjectURL(imageBlob);
+                    
+                    generatedImage.src = imageUrl;
+                    generatedImage.style.display = 'block';
+                    imageLoading.style.display = 'none';
+                } else {
+                    throw new Error('Failed to generate image');
+                }
+            } catch (error) {
+                imageLoading.style.display = 'none';
+                imagePlaceholder.textContent = 'Failed to generate image. Please try again.';
+                imagePlaceholder.style.display = 'block';
+            }
+        }
         
         function handleFormSubmit(event) {
             event.preventDefault();
@@ -579,6 +1038,25 @@
         });
         
         contactForm.addEventListener('submit', handleFormSubmit);
+        
+        updatePhilippinesTime();
+        setRandomQuote();
+        setInterval(updatePhilippinesTime, 1000);
+        
+        chatSend.addEventListener('click', sendChatMessage);
+        chatInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                sendChatMessage();
+            }
+        });
+        
+        generateBtn.addEventListener('click', generateImage);
+        imagePrompt.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                generateImage();
+            }
+        });
     </script>
 </body>
 </html>
+<!-- I HATE DIS AHH ME -->
