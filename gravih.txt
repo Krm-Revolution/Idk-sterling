@@ -1,0 +1,21 @@
+function Get-WindowsKey {
+    $Path = "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion"
+    $DigitalProductId = (Get-ItemProperty -Path $Path).DigitalProductId
+    $ProductKey = ""
+    $KeyOffset = 52
+    $Chars = "BCDFGHJKMPQRTVWXY2346789"
+    for ($i = 0; $i -lt 25; $i++) {
+        $Current = 0
+        for ($j = 14; $j -ge 0; $j--) {
+            $Current = $Current * 256 -bxor $DigitalProductId[$KeyOffset + $j]
+            $DigitalProductId[$KeyOffset + $j] = [math]::Floor($Current / 24)
+            $Current = $Current % 24
+        }
+        $ProductKey = $Chars[$Current] + $ProductKey
+        if (($i % 5 -eq 4) -and ($i -ne 24)) {
+            $ProductKey = "-" + $ProductKey
+        }
+    }
+    return $ProductKey
+}
+Get-WindowsKey
