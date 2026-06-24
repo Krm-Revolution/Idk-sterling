@@ -856,4 +856,14 @@
     "clearKeys": {"a06ca6c275744151895762e0346380f5": "559da1b63eec77b5a942018f14d3f56f"},
     "proxyMode": "none"
   }
+  ,
+  {
+    "url": "https://live20.bozztv.com/giatv/giatv-gocentraltv23ph/gocentraltv23ph/chunks.m3u8",
+    "name": "GO CENTRAL"
+  }
+  ,
+  {
+    "url": "https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8",
+    "name": "CARTOON CHANNEL PH"
+  }
 ]
