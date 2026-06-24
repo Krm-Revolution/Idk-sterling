@@ -859,16 +859,34 @@
   ,
   {
     "url": "https://live20.bozztv.com/giatv/giatv-gocentraltv23ph/gocentraltv23ph/chunks.m3u8",
-    "name": "GO CENTRAL"
+    "name": "GO CENTRAL",
+    "group": "unknown",
+    "key": "go_central",
+    "drm": false,
+    "sys": "clearkey",
+    "clearkeys": {},
+    "proxyMode": "none"
   }
   ,
   {
     "url": "https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8",
-    "name": "CARTOON CHANNEL PH"
+    "name": "CARTOON CHANNEL PH",
+    "group": "unknown",
+    "key": "cartoon_channel_ph",
+    "drm": false,
+    "sys": "clearkey",
+    "clearkeys": {},
+    "proxyMode": "none"
   }
   ,
   {
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/cominteractvalt/chunks.m3u8",
-    "name": "GO TOONIME"
+    "name": "GO TOONIME",
+    "group": "unknown",
+    "key": "go_toonime",
+    "drm": false,
+    "sys": "clearkeys",
+    "clearkeys": {},
+    "proxyMode": "none"
   }
 ]
