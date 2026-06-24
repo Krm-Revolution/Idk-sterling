@@ -1,0 +1,1932 @@
+[
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/a2z/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "A2Z",
+    "group": "LOCAL",
+    "key": "udptv_a2z",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/aliwtv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Aliw TV",
+    "group": "LOCAL",
+    "key": "udptv_aliwtv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/alltv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "ALL TV",
+    "group": "LOCAL",
+    "key": "udptv_alltv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/ancglobal/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "ANC Global",
+    "group": "LOCAL",
+    "key": "udptv_ancglobal",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/ancph/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "ANC PH",
+    "group": "LOCAL",
+    "key": "udptv_ancph",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/animax/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Animax",
+    "group": "KIDS",
+    "key": "udptv_animax",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/animexhidive/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Anime x Hidive",
+    "group": "KIDS",
+    "key": "udptv_animexhidive",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/aniplus/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Aniplus",
+    "group": "KIDS",
+    "key": "udptv_aniplus",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/arirang/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Arirang",
+    "group": "DOCUMENTARY",
+    "key": "udptv_arirang",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/asianfoodnetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Asian Food Network",
+    "group": "DOCUMENTARY",
+    "key": "udptv_asianfoodnetwork",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/bbclifestyle/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "BBC Lifestyle",
+    "group": "DOCUMENTARY",
+    "key": "udptv_bbclifestyle",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/beinsports1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Bein Sports 1",
+    "group": "SPORTS",
+    "key": "udptv_beinsports1",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/beinsports2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Bein Sports 2",
+    "group": "SPORTS",
+    "key": "udptv_beinsports2",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/beinsports3/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Bein Sports 3",
+    "group": "SPORTS",
+    "key": "udptv_beinsports3",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/billonaryonewschannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Billonaryo News Channel",
+    "group": "LOCAL",
+    "key": "udptv_billonaryonewschannel",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/buko/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Buko",
+    "group": "ENTERTAINMENT",
+    "key": "udptv_buko",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/cartoonnetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Cartoon Network",
+    "group": "KIDS",
+    "key": "udptv_cartoonnetwork",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/celestialmoviespinoy/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Celestial Movies Pinoy",
+    "group": "MOVIES",
+    "key": "udptv_celestialmoviespinoy",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/cignaldreamworks/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Dreamworks",
+    "group": "KIDS",
+    "key": "udptv_cignaldreamworks",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/cinemaoneglobal/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Cinema One Global",
+    "group": "MOVIES",
+    "key": "udptv_cinemaoneglobal",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/cinemaoneph/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Cinema One PH",
+    "group": "MOVIES",
+    "key": "udptv_cinemaoneph",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/cinemax/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Cinemax",
+    "group": "MOVIES",
+    "key": "udptv_cinemax",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/cinemoglobal/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Cinemo Global",
+    "group": "MOVIES",
+    "key": "udptv_cinemoglobal",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/cinemoph/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Cinemo PH",
+    "group": "MOVIES",
+    "key": "udptv_cinemoph",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/cltv36/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "CLTV 36",
+    "group": "LOCAL",
+    "key": "udptv_cltv36",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/cnn/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "CNN",
+    "group": "NEWS",
+    "key": "udptv_cnn",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/daznlaliga/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "DAZN LA LIGA",
+    "group": "SPORTS",
+    "key": "udptv_daznlaliga",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/dreamworkstagalized/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Dreamworks Tagalized",
+    "group": "KIDS",
+    "key": "udptv_dreamworkstagalized",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/dzmmteleradyo/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "DZMM Teleradyo",
+    "group": "LOCAL",
+    "key": "udptv_dzmmteleradyo",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/dzmmteleradyosd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "DZMM Teleradyo SD",
+    "group": "LOCAL",
+    "key": "udptv_dzmmteleradyosd",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/dzrhtv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "DZRH TV",
+    "group": "NEWS",
+    "key": "udptv_dzrhtv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/gma/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "GMA",
+    "group": "LOCAL",
+    "key": "udptv_gma",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/gmalifetv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "GMA Life TV",
+    "group": "ENTERTAINMENT",
+    "key": "udptv_gmalifetv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/gmanewstv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "GMA News TV",
+    "group": "NEWS",
+    "key": "udptv_gmanewstv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/gmapinoytv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "GMA Pinoy TV",
+    "group": "ENTERTAINMENT",
+    "key": "udptv_gmapinoytv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/gtv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "GTV",
+    "group": "LOCAL",
+    "key": "udptv_gtv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/hboboxing/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "HBO Boxing",
+    "group": "SPORTS",
+    "key": "udptv_hboboxing",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/hbocomedy/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "HBO Comedy",
+    "group": "MOVIES",
+    "key": "udptv_hbocomedy",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/hbofamily/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "HBO Family",
+    "group": "MOVIES",
+    "key": "udptv_hbofamily",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/hbohd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "HBO HD",
+    "group": "MOVIES",
+    "key": "udptv_hbohd",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/hbohits/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "HBO Hits",
+    "group": "MOVIES",
+    "key": "udptv_hbohits",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/hbosignature/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "HBO Signature",
+    "group": "MOVIES",
+    "key": "udptv_hbosignature",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/hbowest/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "HBO West",
+    "group": "MOVIES",
+    "key": "udptv_hbowest",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/hbozone/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "HBO Zone",
+    "group": "MOVIES",
+    "key": "udptv_hbozone",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/hbo2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "HBO2",
+    "group": "MOVIES",
+    "key": "udptv_hbo2",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/history/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "History",
+    "group": "DOCUMENTARY",
+    "key": "udptv_history",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/ibc13/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "IBC13",
+    "group": "LOCAL",
+    "key": "udptv_ibc13",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/jeepneytv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Jeepney TV",
+    "group": "LOCAL",
+    "key": "udptv_jeepneytv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/kapamilyachannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Kapamilya Channel",
+    "group": "LOCAL",
+    "key": "udptv_kapamilyachannel",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/kbsworld/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "KBS World",
+    "group": "ENTERTAINMENT",
+    "key": "udptv_kbsworld",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/kix/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "KIX",
+    "group": "ENTERTAINMENT",
+    "key": "udptv_kix",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/knowledgechannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Knowledge Channel",
+    "group": "KIDS",
+    "key": "udptv_knowledgechannel",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/lotusmacau/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Lotus Macau",
+    "group": "MOVIES",
+    "key": "udptv_lotusmacau",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/metrochannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Metro Channel",
+    "group": "ENTERTAINMENT",
+    "key": "udptv_metrochannel",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/metvtoons/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "METV Toons",
+    "group": "KIDS",
+    "key": "udptv_metvtoons",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/mn/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "MN+",
+    "group": "MOVIES",
+    "key": "udptv_mn",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/mnx/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "MNX",
+    "group": "MOVIES",
+    "key": "udptv_mnx",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/moviesnow/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Movies Now",
+    "group": "MOVIES",
+    "key": "udptv_moviesnow",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/myxglobal1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Myx Global",
+    "group": "MUSIC",
+    "key": "udptv_myxglobal1",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/myxph/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "MYX PH",
+    "group": "MUSIC",
+    "key": "udptv_myxph",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/m6/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "M6",
+    "group": "FIFA WORLD CUP",
+    "key": "udptv_m6",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/m64k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "M6 4K",
+    "group": "FIFA WORLD CUP",
+    "key": "udptv_m64k",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/nbatvphilippines/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "NBA TV Philippines",
+    "group": "SPORTS",
+    "key": "udptv_nbatvphilippines",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/net25/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "NET25",
+    "group": "LOCAL",
+    "key": "udptv_net25",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/nhkworldjapan/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "NHK World Japan",
+    "group": "DOCUMENTARY",
+    "key": "udptv_nhkworldjapan",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/onenews/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "One News",
+    "group": "SPORTS",
+    "key": "udptv_onenews",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/oneph/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "One PH",
+    "group": "NEWS",
+    "key": "udptv_oneph",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/onesports1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "One Sports",
+    "group": "SPORTS",
+    "key": "udptv_onesports1",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/onesports/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "One Sports +",
+    "group": "SPORTS",
+    "key": "udptv_onesports",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/pbarush/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "PBA Rush",
+    "group": "SPORTS",
+    "key": "udptv_pbarush",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/pbo/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "PBO",
+    "group": "MOVIES",
+    "key": "udptv_pbo",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/ptv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "PTV",
+    "group": "LOCAL",
+    "key": "udptv_ptv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/rptv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "RPTV",
+    "group": "LOCAL",
+    "key": "udptv_rptv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/smni/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "SMNI",
+    "group": "LOCAL",
+    "key": "udptv_smni",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/solarflix/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "SOLARFLIX",
+    "group": "LOCAL",
+    "key": "udptv_solarflix",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/spotv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "SPO TV",
+    "group": "SPORTS",
+    "key": "udptv_spotv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/spo2tv2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "SPO2 TV 2",
+    "group": "SPORTS",
+    "key": "udptv_spo2tv2",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/sportsnet360/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Sportsnet 360",
+    "group": "SPORTS",
+    "key": "udptv_sportsnet360",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/sportsneteast/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Sportsnet East",
+    "group": "SPORTS",
+    "key": "udptv_sportsneteast",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/sportsnetone/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Sportsnet One",
+    "group": "SPORTS",
+    "key": "udptv_sportsnetone",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/sportsnetontario/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Sportsnet Ontario",
+    "group": "SPORTS",
+    "key": "udptv_sportsnetontario",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/sportsnetpacific/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Sportsnet Pacific",
+    "group": "SPORTS",
+    "key": "udptv_sportsnetpacific",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/sportsnetwest/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Sportsnet West",
+    "group": "SPORTS",
+    "key": "udptv_sportsnetwest",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/sportsnetworld/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Sportsnet World",
+    "group": "SPORTS",
+    "key": "udptv_sportsnetworld",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tapactionflix/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Tap Action Flix",
+    "group": "MOVIES",
+    "key": "udptv_tapactionflix",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tapmovies/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Tap Movies",
+    "group": "MOVIES",
+    "key": "udptv_tapmovies",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tfcasia/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TFC Asia",
+    "group": "ENTERTAINMENT",
+    "key": "udptv_tfcasia",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tfcglobal/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TFC Global",
+    "group": "ENTERTAINMENT",
+    "key": "udptv_tfcglobal",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/thrill/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Thrill",
+    "group": "MOVIES",
+    "key": "udptv_thrill",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tmc/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TMC",
+    "group": "MOVIES",
+    "key": "udptv_tmc",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/truefmtv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "True FM TV",
+    "group": "LOCAL",
+    "key": "udptv_truefmtv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tsn1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TSN1",
+    "group": "FIFA WORLD CUP",
+    "key": "udptv_tsn1",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tsn2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TSN2",
+    "group": "SPORTS",
+    "key": "udptv_tsn2",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tsn3/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TSN3",
+    "group": "SPORTS",
+    "key": "udptv_tsn3",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tsn4/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TSN4",
+    "group": "SPORTS",
+    "key": "udptv_tsn4",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tsn5/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TSN5",
+    "group": "SPORTS",
+    "key": "udptv_tsn5",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tv5hd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TV5 HD",
+    "group": "LOCAL",
+    "key": "udptv_tv5hd",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tvn/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "tvN",
+    "group": "ENTERTAINMENT",
+    "key": "udptv_tvn",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/untv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "UNTV",
+    "group": "LOCAL",
+    "key": "udptv_untv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/vivacinema/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Viva Cinema",
+    "group": "MOVIES",
+    "key": "udptv_vivacinema",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/warnertv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Warner TV",
+    "group": "MOVIES",
+    "key": "udptv_warnertv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tntsports1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TNT Sports 1",
+    "group": "SPORTS",
+    "key": "udptv_tntsports1",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tntsports2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TNT Sports 2",
+    "group": "SPORTS",
+    "key": "udptv_tntsports2",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tntsports3/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TNT Sports 3",
+    "group": "SPORTS",
+    "key": "udptv_tntsports3",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/tntsports4/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TNT Sports 4",
+    "group": "SPORTS",
+    "key": "udptv_tntsports4",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/uaapvarsitychannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "UAAP Varsity Channel",
+    "group": "SPORTS",
+    "key": "udptv_uaapvarsitychannel",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/nickelodeon/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Nickelodeon",
+    "group": "KIDS",
+    "key": "udptv_nickelodeon",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/nickjr/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Nick Jr",
+    "group": "KIDS",
+    "key": "udptv_nickjr",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/axn/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "AXN",
+    "group": "MOVIES",
+    "key": "udptv_axn",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/rockaction/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Rock Action",
+    "group": "MOVIES",
+    "key": "udptv_rockaction",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/rockentertainment/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Rock Entertainment",
+    "group": "ENTERTAINMENT",
+    "key": "udptv_rockentertainment",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/starhubfifawcch1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "STARHUB | FIFAWCCh1",
+    "group": "FIFA WORLD CUP",
+    "key": "udptv_starhubfifawcch1",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/starhubfifawcch2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "STARHUB | FIFAWCCh2",
+    "group": "FIFA WORLD CUP",
+    "key": "udptv_starhubfifawcch2",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptv/foxfifafhd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "FOX | FIFA FHD",
+    "group": "FIFA WORLD CUP",
+    "key": "udptv_foxfifafhd",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/fox4k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "FOX 4K",
+    "group": "FIFA WORLD CUP",
+    "key": "udptvus_fox4k",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/abcnewslive/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "ABC News Live",
+    "group": "NEWS",
+    "key": "udptvus_abcnewslive",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/abckgo/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "ABC(KGO)",
+    "group": "ENTERTAINMENT",
+    "key": "udptvus_abckgo",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/amc/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "AMC",
+    "group": "MOVIES",
+    "key": "udptvus_amc",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/bbcearth/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "BBC Earth",
+    "group": "DOCUMENTARY",
+    "key": "udptvus_bbcearth",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/bbcfood/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "BBC Food",
+    "group": "DOCUMENTARY",
+    "key": "udptvus_bbcfood",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/beinsports/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Bein Sports",
+    "group": "SPORTS",
+    "key": "udptvus_beinsports",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/bigtennetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Big Ten Network",
+    "group": "SPORTS",
+    "key": "udptvus_bigtennetwork",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/billardtv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Billard TV",
+    "group": "SPORTS",
+    "key": "udptvus_billardtv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/cbsnewyork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "CBS | NEW YORK",
+    "group": "ENTERTAINMENT",
+    "key": "udptvus_cbsnewyork",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/cbschicago/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "CBS | CHICAGO",
+    "group": "ENTERTAINMENT",
+    "key": "udptvus_cbschicago",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/discovery/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Discovery",
+    "group": "DOCUMENTARY",
+    "key": "udptvus_discovery",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/disneychannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Disney Channel",
+    "group": "KIDS",
+    "key": "udptvus_disneychannel",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/espn/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "ESPN",
+    "group": "SPORTS",
+    "key": "udptvus_espn",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/espn2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "ESPN2",
+    "group": "SPORTS",
+    "key": "udptvus_espn2",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/espnnews/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "ESPN NEWS",
+    "group": "SPORTS",
+    "key": "udptvus_espnnews",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/espnu/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "ESPNU",
+    "group": "SPORTS",
+    "key": "udptvus_espnu",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/foodnetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Food Network",
+    "group": "DOCUMENTARY",
+    "key": "udptvus_foodnetwork",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/foxnews/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Fox News",
+    "group": "NEWS",
+    "key": "udptvus_foxnews",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/fox11/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "FOX11",
+    "group": "NEWS",
+    "key": "udptvus_fox11",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/fs1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "FS1",
+    "group": "FIFA WORLD CUP",
+    "key": "udptvus_fs1",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/fs2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "FS2",
+    "group": "FIFA WORLD CUP",
+    "key": "udptvus_fs2",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/fx/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "FX",
+    "group": "MOVIES",
+    "key": "udptvus_fx",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/kabc/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "KABC",
+    "group": "ENTERTAINMENT",
+    "key": "udptvus_kabc",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/knbc/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "KNBC",
+    "group": "ENTERTAINMENT",
+    "key": "udptvus_knbc",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/mgmdrivein/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "MGM+ Drive-In",
+    "group": "MOVIES",
+    "key": "udptvus_mgmdrivein",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/nationalgeographic/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "National Geographic",
+    "group": "DOCUMENTARY",
+    "key": "udptvus_nationalgeographic",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/nbcbayarea/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "NBC | BAY AREA",
+    "group": "ENTERTAINMENT",
+    "key": "udptvus_nbcbayarea",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/nbcboston/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "NBC | BOSTON",
+    "group": "ENTERTAINMENT",
+    "key": "udptvus_nbcboston",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/nbcseattle/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "NBC | SEATTLE",
+    "group": "ENTERTAINMENT",
+    "key": "udptvus_nbcseattle",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/nbatv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "NBA TV",
+    "group": "SPORTS",
+    "key": "udptvus_nbatv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/nbcgolf/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "NBC Golf",
+    "group": "SPORTS",
+    "key": "udptvus_nbcgolf",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/syfy/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "SYFY",
+    "group": "MOVIES",
+    "key": "udptvus_syfy",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/tnt/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TNT",
+    "group": "ENTERTAINMENT",
+    "key": "udptvus_tnt",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/tnteast/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TNT East",
+    "group": "ENTERTAINMENT",
+    "key": "udptvus_tnteast",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/travelchannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Travel Channel",
+    "group": "DOCUMENTARY",
+    "key": "udptvus_travelchannel",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/wabc/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "WABC",
+    "group": "SPORTS",
+    "key": "udptvus_wabc",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/msgsportszone/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "MSG Sportszone",
+    "group": "SPORTS",
+    "key": "udptvus_msgsportszone",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/amcthrillers/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "AMC Thrillers",
+    "group": "MOVIES",
+    "key": "udptvus_amcthrillers",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/mlbnetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "MLB Network",
+    "group": "SPORTS",
+    "key": "udptvus_mlbnetwork",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/nbatvnbalp/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "NBA TV - NBALP",
+    "group": "SPORTS",
+    "key": "udptvus_nbatvnbalp",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/trutv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Tru TV",
+    "group": "SPORTS",
+    "key": "udptvus_trutv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/tennischannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Tennis Channel",
+    "group": "SPORTS",
+    "key": "udptvus_tennischannel",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/telemundoboston/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TELEMUNDO | BOSTON",
+    "group": "FIFA WORLD CUP",
+    "key": "udptvus_telemundoboston",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/telemundobayarea/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TELEMUNDO | BAY AREA",
+    "group": "FIFA WORLD CUP",
+    "key": "udptvus_telemundobayarea",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/nflredzonenetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "NFL Redzone Network",
+    "group": "SPORTS",
+    "key": "udptvus_nflredzonenetwork",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/nflnetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "NFL Network",
+    "group": "SPORTS",
+    "key": "udptvus_nflnetwork",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/tbseast/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "TBS East",
+    "group": "ENTERTAINMENT",
+    "key": "udptvus_tbseast",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/trueeast/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "True East",
+    "group": "ENTERTAINMENT",
+    "key": "udptvus_trueeast",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/sportsbayarea/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Sports Bay Area",
+    "group": "SPORTS",
+    "key": "udptvus_sportsbayarea",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/sportsboston/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Sports Boston",
+    "group": "SPORTS",
+    "key": "udptvus_sportsboston",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/sportscalifornia/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Sports California",
+    "group": "SPORTS",
+    "key": "udptvus_sportscalifornia",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/sportsphiladelphia/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Sports Philadelphia",
+    "group": "SPORTS",
+    "key": "udptvus_sportsphiladelphia",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://box.djdoolky76.net/stream/udptvus/spectrumsportsnet/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
+    "name": "Spectrum Sportsnet+",
+    "group": "SPORTS",
+    "key": "udptvus_spectrumsportsnet",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+    "name": "Moonbug Kids",
+    "group": "KIDS",
+    "key": "moonbug_kids",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8",
+    "name": "Vegas Life TV",
+    "group": "ENTERTAINMENT",
+    "key": "vegas_life_tv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://streams.comclark.com/overlay/mindanow/playlist.m3u8",
+    "name": "Mindanow Network TV",
+    "group": "LOCAL",
+    "key": "mindanow_network_tv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8",
+    "name": "BBC News Asia Pacific",
+    "group": "NEWS",
+    "key": "bbc_news_asia_pacific",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8",
+    "name": "CLTV 36",
+    "group": "LOCAL",
+    "key": "cltv_36_live",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+    "name": "Bilyonario News Channel",
+    "group": "NEWS",
+    "key": "bilyonario_news_channel_amagi",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8",
+    "name": "EWTN Asia-Pacific",
+    "group": "RELIGIOUS",
+    "key": "ewtn_asia_pacific",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+    "name": "Arirang",
+    "group": "DOCUMENTARY",
+    "key": "arirang_akamai",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://www.bloomberg.com/media-manifest/streams/asia.m3u8",
+    "name": "Bloomberg Asia",
+    "group": "NEWS",
+    "key": "bloomberg_asia",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+    "name": "BBC World News",
+    "group": "NEWS",
+    "key": "bbc_world_news",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "name": "CGTN News Live",
+    "group": "NEWS",
+    "key": "cgtn_news_live",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8",
+    "name": "CGTN Documentaries",
+    "group": "DOCUMENTARY",
+    "key": "cgtn_documentaries",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
+    "name": "Outdoor Channel",
+    "group": "DOCUMENTARY",
+    "key": "outdoor_channel",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8",
+    "name": "Thrillers",
+    "group": "MOVIES",
+    "key": "thrillers",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+    "name": "Bein Sports Xtra",
+    "group": "SPORTS",
+    "key": "bein_sports_xtra",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+    "name": "MovieSphere",
+    "group": "MOVIES",
+    "key": "moviesphere",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8",
+    "name": "TFC GUAM",
+    "group": "ENTERTAINMENT",
+    "key": "tfc_guam",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
+    "name": "3ABN Kids",
+    "group": "KIDS",
+    "key": "3abn_kids",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+    "name": "Blues TV",
+    "group": "MUSIC",
+    "key": "blues_tv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://foxkidstv.be:3369/stream/play.m3u8",
+    "name": "Japanim TV",
+    "group": "KIDS",
+    "key": "japanim_tv",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://magicstream.ddns.net/magicstream/stream.m3u8",
+    "name": "Magic Kids",
+    "group": "KIDS",
+    "key": "magic_kids",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://junhls.persiana.live/hls/stream.m3u8",
+    "name": "Persiana Junior",
+    "group": "KIDS",
+    "key": "persiana_junior",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://yahoo-samsung.amagi.tv/playlist.m3u8",
+    "name": "Yahoo! Finance",
+    "group": "NEWS",
+    "key": "yahoo_finance",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8",
+    "name": "EWTN Europe",
+    "group": "RELIGIOUS",
+    "key": "ewtn_europe",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  },
+  {
+    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "name": "CNN",
+    "group": "NEWS",
+    "key": "cnn",
+    "drm": false,
+    "sys": "clearkey",
+    "clearKeys": {},
+    "proxyMode": "none"
+  }
+]
