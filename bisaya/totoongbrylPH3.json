@@ -1,1932 +1,698 @@
 [
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/a2z/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "A2Z",
-    "group": "LOCAL",
-    "key": "udptv_a2z",
+    "label": "HBO",
+    "url": "http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/aliwtv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Aliw TV",
-    "group": "LOCAL",
-    "key": "udptv_aliwtv",
+    "label": "CNN Cignal",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrvgzXcrMUV80DAC2bRdJG9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001113&contentid=ch00000000000000001113&videoid=ch00000090990000001073&recommendtype=0&userid=1018127260612&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=PPMBBFC1MGGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/alltv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "ALL TV",
-    "group": "LOCAL",
-    "key": "udptv_alltv",
+    "label": "Celestial Movies Pinoy",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/ancglobal/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "ANC Global",
-    "group": "LOCAL",
-    "key": "udptv_ancglobal",
+    "label": "PBO",
+    "url": "http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1302493816250&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=52Y01DLD7HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/ancph/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "ANC PH",
-    "group": "LOCAL",
-    "key": "udptv_ancph",
+    "label": "Viva Cinema",
+    "url": "http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/animax/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Animax",
-    "group": "KIDS",
-    "key": "udptv_animax",
+    "label": "TMC",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/animexhidive/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Anime x Hidive",
-    "group": "KIDS",
-    "key": "udptv_animexhidive",
+    "label": "SolarSports",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpTfGIKxFqRM2tu30PzY%2FKkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001087&contentid=ch00000000000000001087&videoid=ch00000090990000001081&recommendtype=0&userid=1572318406990&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O0NP6KUE17KXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/aniplus/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Aniplus",
-    "group": "KIDS",
-    "key": "udptv_aniplus",
+    "label": "One Sports",
+    "url": "http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/arirang/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Arirang",
-    "group": "DOCUMENTARY",
-    "key": "udptv_arirang",
+    "label": "PTV4",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/asianfoodnetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Asian Food Network",
-    "group": "DOCUMENTARY",
-    "key": "udptv_asianfoodnetwork",
+    "label": "A2Z",
+    "url": "http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/bbclifestyle/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "BBC Lifestyle",
-    "group": "DOCUMENTARY",
-    "key": "udptv_bbclifestyle",
+    "label": "TV5",
+    "url": "http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/beinsports1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Bein Sports 1",
-    "group": "SPORTS",
-    "key": "udptv_beinsports1",
+    "label": "IBC 13",
+    "url": "http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/beinsports2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Bein Sports 2",
-    "group": "SPORTS",
-    "key": "udptv_beinsports2",
+    "label": "NET 25",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001090/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpBCCDeDIJn9rDuWx8BszuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001217&contentid=ch00000000000000001217&videoid=ch00000090990000001090&recommendtype=0&userid=1645621004526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5X13LGN2GQBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/beinsports3/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Bein Sports 3",
-    "group": "SPORTS",
-    "key": "udptv_beinsports3",
+    "label": "UNTV",
+    "url": "http://136.239.173.10:6610/001/2/ch00000090990000001091/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8EKxpteUJNLDuI18c3YYNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001177&contentid=ch00000000000000001177&videoid=ch00000090990000001091&recommendtype=0&userid=1785051491883&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7BZSNFMO8LPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/billonaryonewschannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Billonaryo News Channel",
-    "group": "LOCAL",
-    "key": "udptv_billonaryonewschannel",
+    "label": "INC TV",
+    "url": "http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/buko/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Buko",
-    "group": "ENTERTAINMENT",
-    "key": "udptv_buko",
+    "label": "GMA 7",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/cartoonnetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Cartoon Network",
-    "group": "KIDS",
-    "key": "udptv_cartoonnetwork",
+    "label": "RPTV",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BplioRPAB6XCf%2FrlkX7xxQZytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001215&contentid=ch00000000000000001215&videoid=ch00000090990000001094&recommendtype=0&userid=1177699247918&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YBHPP0KWBIFXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/celestialmoviespinoy/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Celestial Movies Pinoy",
-    "group": "MOVIES",
-    "key": "udptv_celestialmoviespinoy",
+    "label": "Warner TV",
+    "url": "http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/cignaldreamworks/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Dreamworks",
-    "group": "KIDS",
-    "key": "udptv_cignaldreamworks",
+    "label": "Fashion TV",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001236&contentid=ch00000000000000001236&videoid=ch00000090990000001102&recommendtype=0&userid=1182293234058&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UV7BK6N91UNXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/cinemaoneglobal/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Cinema One Global",
-    "group": "MOVIES",
-    "key": "udptv_cinemaoneglobal",
+    "label": "Light TV",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001103/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqkZ6SnNx3gh97OtxQ2ygibytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001179&contentid=ch00000000000000001179&videoid=ch00000090990000001103&recommendtype=0&userid=1847927235474&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FR3HWWBCXEEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/cinemaoneph/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Cinema One PH",
-    "group": "MOVIES",
-    "key": "udptv_cinemaoneph",
+    "label": "EWTN",
+    "url": "http://136.239.158.18:6610/001/2/ch00000090990000001104/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Brqe%2B6z8S0P4H4d709E7gynytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001180&contentid=ch00000000000000001180&videoid=ch00000090990000001104&recommendtype=0&userid=1130713546686&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGMTXNDRQLDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/cinemax/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Cinemax",
-    "group": "MOVIES",
-    "key": "udptv_cinemax",
+    "label": "Channel News Asia",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqhARVluhpunJiYdQ%2BUDM8fytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1618692244090&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0A4KF9O3OZU7XX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/cinemoglobal/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Cinemo Global",
-    "group": "MOVIES",
-    "key": "udptv_cinemoglobal",
+    "label": "Arirang",
+    "url": "http://136.239.173.10:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrA9GNo9at0BwcO0MP5gH5%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001221&contentid=ch00000000000000001221&videoid=ch00000090990000001107&recommendtype=0&userid=1534530444027&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=XCJ3TV5LV9DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/cinemoph/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Cinemo PH",
-    "group": "MOVIES",
-    "key": "udptv_cinemoph",
+    "label": "Cinemax",
+    "url": "http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/cltv36/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "CLTV 36",
-    "group": "LOCAL",
-    "key": "udptv_cltv36",
+    "label": "Aliw Channel",
+    "url": "http://136.239.173.3:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp%2BWYKp0pXQLOnfpLMLHi2tytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001234&contentid=ch00000000000000001234&videoid=ch00000090990000001109&recommendtype=0&userid=1657667082928&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=JK9HJ5J3VGXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/cnn/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "CNN",
-    "group": "NEWS",
-    "key": "udptv_cnn",
+    "label": "ABC Australia",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001111/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpS6W%2B6YCeAzzWlWVs9TWyRytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001273&contentid=ch00000000000000001273&videoid=ch00000090990000001111&recommendtype=0&userid=1836152308422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OIM96MPU9AXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/daznlaliga/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "DAZN LA LIGA",
-    "group": "SPORTS",
-    "key": "udptv_daznlaliga",
+    "label": "TVE Internacional",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001112/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0ljLQuLaqTKdgvofK6hc4ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001275&contentid=ch00000000000000001275&videoid=ch00000090990000001112&recommendtype=0&userid=1405270067404&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O5OYCFP87ZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/dreamworkstagalized/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Dreamworks Tagalized",
-    "group": "KIDS",
-    "key": "udptv_dreamworkstagalized",
+    "label": "Phoenix Info News",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001113/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrJ%2FmqaM1lrBiCRhhaFxCv%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001274&contentid=ch00000000000000001274&videoid=ch00000090990000001113&recommendtype=0&userid=1615200557296&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=F3CWPRYA79AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/dzmmteleradyo/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "DZMM Teleradyo",
-    "group": "LOCAL",
-    "key": "udptv_dzmmteleradyo",
+    "label": "Mindanow Network",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001123/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrWYLxykQwHejqAgxTqFbr7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001237&contentid=ch00000000000000001237&videoid=ch00000090990000001123&recommendtype=0&userid=1545743380024&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7NAS0TOF95HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/dzmmteleradyosd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "DZMM Teleradyo SD",
-    "group": "LOCAL",
-    "key": "udptv_dzmmteleradyosd",
+    "label": "Bilyonaryo Channel",
+    "url": "http://136.239.158.18:6610/001/2/ch00000090990000001124/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001278&contentid=ch00000000000000001278&videoid=ch00000090990000001124&recommendtype=0&userid=1747224050385&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I3AR71L33CXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/dzrhtv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "DZRH TV",
-    "group": "NEWS",
-    "key": "udptv_dzrhtv",
+    "label": "Cartoonito",
+    "url": "http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/gma/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "GMA",
-    "group": "LOCAL",
-    "key": "udptv_gma",
+    "label": "Premier Football",
+    "url": "http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqqxWqB5I3LphK7WUAFquWrytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001293&contentid=ch00000000000000001293&videoid=ch00000090990000001127&recommendtype=0&userid=1446387897422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OY4RBOUL5WXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/gmalifetv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "GMA Life TV",
-    "group": "ENTERTAINMENT",
-    "key": "udptv_gmalifetv",
+    "label": "Spotlight TV",
+    "url": "http://136.239.158.30:6610/001/2/ch00000090990000001134/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5iGQ4tDytzSdpM9ehJW6pytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001281&contentid=ch00000000000000001281&videoid=ch00000090990000001134&recommendtype=0&userid=1790262524603&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MG695A5LWR8XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/gmanewstv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "GMA News TV",
-    "group": "NEWS",
-    "key": "udptv_gmanewstv",
+    "label": "Premier Sports",
+    "url": "http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/gmapinoytv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "GMA Pinoy TV",
-    "group": "ENTERTAINMENT",
-    "key": "udptv_gmapinoytv",
+    "label": "GTV",
+    "url": "http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/gtv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "GTV",
-    "group": "LOCAL",
-    "key": "udptv_gtv",
+    "label": "NHK World Japan",
+    "url": "http://136.239.173.3:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqZTKpeZkGzV2we2%2BZ6q6g3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001315&contentid=ch00000000000000001315&videoid=ch00000090990000001145&recommendtype=0&userid=1553915080287&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G0CGMZFORK5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://box.djdoolky76.net/stream/udptv/hboboxing/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "HBO Boxing",
-    "group": "SPORTS",
-    "key": "udptv_hboboxing",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/hbocomedy/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "HBO Comedy",
-    "group": "MOVIES",
-    "key": "udptv_hbocomedy",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/hbofamily/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "HBO Family",
-    "group": "MOVIES",
-    "key": "udptv_hbofamily",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/hbohd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "HBO HD",
-    "group": "MOVIES",
-    "key": "udptv_hbohd",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/hbohits/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "HBO Hits",
-    "group": "MOVIES",
-    "key": "udptv_hbohits",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/hbosignature/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "HBO Signature",
-    "group": "MOVIES",
-    "key": "udptv_hbosignature",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/hbowest/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "HBO West",
-    "group": "MOVIES",
-    "key": "udptv_hbowest",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/hbozone/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "HBO Zone",
-    "group": "MOVIES",
-    "key": "udptv_hbozone",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/hbo2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "HBO2",
-    "group": "MOVIES",
-    "key": "udptv_hbo2",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/history/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "History",
-    "group": "DOCUMENTARY",
-    "key": "udptv_history",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/ibc13/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "IBC13",
-    "group": "LOCAL",
-    "key": "udptv_ibc13",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/jeepneytv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Jeepney TV",
-    "group": "LOCAL",
-    "key": "udptv_jeepneytv",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/kapamilyachannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Kapamilya Channel",
-    "group": "LOCAL",
-    "key": "udptv_kapamilyachannel",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/kbsworld/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "KBS World",
-    "group": "ENTERTAINMENT",
-    "key": "udptv_kbsworld",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/kix/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "KIX",
-    "group": "ENTERTAINMENT",
-    "key": "udptv_kix",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/knowledgechannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Knowledge Channel",
-    "group": "KIDS",
-    "key": "udptv_knowledgechannel",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/lotusmacau/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Lotus Macau",
-    "group": "MOVIES",
-    "key": "udptv_lotusmacau",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/metrochannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Metro Channel",
-    "group": "ENTERTAINMENT",
-    "key": "udptv_metrochannel",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/metvtoons/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "METV Toons",
-    "group": "KIDS",
-    "key": "udptv_metvtoons",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/mn/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "MN+",
-    "group": "MOVIES",
-    "key": "udptv_mn",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/mnx/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "MNX",
-    "group": "MOVIES",
-    "key": "udptv_mnx",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/moviesnow/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Movies Now",
-    "group": "MOVIES",
-    "key": "udptv_moviesnow",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/myxglobal1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Myx Global",
-    "group": "MUSIC",
-    "key": "udptv_myxglobal1",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/myxph/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "MYX PH",
-    "group": "MUSIC",
-    "key": "udptv_myxph",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/m6/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "M6",
-    "group": "FIFA WORLD CUP",
-    "key": "udptv_m6",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/m64k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "M6 4K",
-    "group": "FIFA WORLD CUP",
-    "key": "udptv_m64k",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/nbatvphilippines/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "NBA TV Philippines",
-    "group": "SPORTS",
-    "key": "udptv_nbatvphilippines",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/net25/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "NET25",
-    "group": "LOCAL",
-    "key": "udptv_net25",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/nhkworldjapan/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "NHK World Japan",
-    "group": "DOCUMENTARY",
-    "key": "udptv_nhkworldjapan",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/onenews/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "One News",
-    "group": "SPORTS",
-    "key": "udptv_onenews",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/oneph/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "One PH",
-    "group": "NEWS",
-    "key": "udptv_oneph",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/onesports1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "One Sports",
-    "group": "SPORTS",
-    "key": "udptv_onesports1",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/onesports/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "One Sports +",
-    "group": "SPORTS",
-    "key": "udptv_onesports",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/pbarush/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "PBA Rush",
-    "group": "SPORTS",
-    "key": "udptv_pbarush",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/pbo/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "PBO",
-    "group": "MOVIES",
-    "key": "udptv_pbo",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/ptv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "PTV",
-    "group": "LOCAL",
-    "key": "udptv_ptv",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/rptv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "RPTV",
-    "group": "LOCAL",
-    "key": "udptv_rptv",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/smni/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "SMNI",
-    "group": "LOCAL",
-    "key": "udptv_smni",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/solarflix/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "SOLARFLIX",
-    "group": "LOCAL",
-    "key": "udptv_solarflix",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/spotv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "SPO TV",
-    "group": "SPORTS",
-    "key": "udptv_spotv",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/spo2tv2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "SPO2 TV 2",
-    "group": "SPORTS",
-    "key": "udptv_spo2tv2",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/sportsnet360/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Sportsnet 360",
-    "group": "SPORTS",
-    "key": "udptv_sportsnet360",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/sportsneteast/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Sportsnet East",
-    "group": "SPORTS",
-    "key": "udptv_sportsneteast",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/sportsnetone/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Sportsnet One",
-    "group": "SPORTS",
-    "key": "udptv_sportsnetone",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/sportsnetontario/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Sportsnet Ontario",
-    "group": "SPORTS",
-    "key": "udptv_sportsnetontario",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/sportsnetpacific/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Sportsnet Pacific",
-    "group": "SPORTS",
-    "key": "udptv_sportsnetpacific",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/sportsnetwest/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Sportsnet West",
-    "group": "SPORTS",
-    "key": "udptv_sportsnetwest",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/sportsnetworld/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Sportsnet World",
-    "group": "SPORTS",
-    "key": "udptv_sportsnetworld",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tapactionflix/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Tap Action Flix",
-    "group": "MOVIES",
-    "key": "udptv_tapactionflix",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tapmovies/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Tap Movies",
-    "group": "MOVIES",
-    "key": "udptv_tapmovies",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tfcasia/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TFC Asia",
-    "group": "ENTERTAINMENT",
-    "key": "udptv_tfcasia",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tfcglobal/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TFC Global",
-    "group": "ENTERTAINMENT",
-    "key": "udptv_tfcglobal",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/thrill/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Thrill",
-    "group": "MOVIES",
-    "key": "udptv_thrill",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tmc/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TMC",
-    "group": "MOVIES",
-    "key": "udptv_tmc",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/truefmtv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "True FM TV",
-    "group": "LOCAL",
-    "key": "udptv_truefmtv",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tsn1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TSN1",
-    "group": "FIFA WORLD CUP",
-    "key": "udptv_tsn1",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tsn2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TSN2",
-    "group": "SPORTS",
-    "key": "udptv_tsn2",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tsn3/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TSN3",
-    "group": "SPORTS",
-    "key": "udptv_tsn3",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tsn4/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TSN4",
-    "group": "SPORTS",
-    "key": "udptv_tsn4",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tsn5/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TSN5",
-    "group": "SPORTS",
-    "key": "udptv_tsn5",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tv5hd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TV5 HD",
-    "group": "LOCAL",
-    "key": "udptv_tv5hd",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tvn/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "tvN",
-    "group": "ENTERTAINMENT",
-    "key": "udptv_tvn",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/untv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "UNTV",
-    "group": "LOCAL",
-    "key": "udptv_untv",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/vivacinema/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Viva Cinema",
-    "group": "MOVIES",
-    "key": "udptv_vivacinema",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/warnertv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Warner TV",
-    "group": "MOVIES",
-    "key": "udptv_warnertv",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tntsports1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TNT Sports 1",
-    "group": "SPORTS",
-    "key": "udptv_tntsports1",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tntsports2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TNT Sports 2",
-    "group": "SPORTS",
-    "key": "udptv_tntsports2",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tntsports3/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TNT Sports 3",
-    "group": "SPORTS",
-    "key": "udptv_tntsports3",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/tntsports4/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TNT Sports 4",
-    "group": "SPORTS",
-    "key": "udptv_tntsports4",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/uaapvarsitychannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "UAAP Varsity Channel",
-    "group": "SPORTS",
-    "key": "udptv_uaapvarsitychannel",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/nickelodeon/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Nickelodeon",
-    "group": "KIDS",
-    "key": "udptv_nickelodeon",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/nickjr/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Nick Jr",
-    "group": "KIDS",
-    "key": "udptv_nickjr",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/axn/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "AXN",
-    "group": "MOVIES",
-    "key": "udptv_axn",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/rockaction/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Rock Action",
-    "group": "MOVIES",
-    "key": "udptv_rockaction",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/rockentertainment/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Rock Entertainment",
-    "group": "ENTERTAINMENT",
-    "key": "udptv_rockentertainment",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/starhubfifawcch1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "STARHUB | FIFAWCCh1",
-    "group": "FIFA WORLD CUP",
-    "key": "udptv_starhubfifawcch1",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/starhubfifawcch2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "STARHUB | FIFAWCCh2",
-    "group": "FIFA WORLD CUP",
-    "key": "udptv_starhubfifawcch2",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptv/foxfifafhd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "FOX | FIFA FHD",
-    "group": "FIFA WORLD CUP",
-    "key": "udptv_foxfifafhd",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/fox4k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "FOX 4K",
-    "group": "FIFA WORLD CUP",
-    "key": "udptvus_fox4k",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/abcnewslive/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "ABC News Live",
-    "group": "NEWS",
-    "key": "udptvus_abcnewslive",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/abckgo/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "ABC(KGO)",
-    "group": "ENTERTAINMENT",
-    "key": "udptvus_abckgo",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/amc/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "AMC",
-    "group": "MOVIES",
-    "key": "udptvus_amc",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/bbcearth/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "BBC Earth",
-    "group": "DOCUMENTARY",
-    "key": "udptvus_bbcearth",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/bbcfood/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "BBC Food",
-    "group": "DOCUMENTARY",
-    "key": "udptvus_bbcfood",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/beinsports/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Bein Sports",
-    "group": "SPORTS",
-    "key": "udptvus_beinsports",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/bigtennetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Big Ten Network",
-    "group": "SPORTS",
-    "key": "udptvus_bigtennetwork",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/billardtv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Billard TV",
-    "group": "SPORTS",
-    "key": "udptvus_billardtv",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/cbsnewyork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "CBS | NEW YORK",
-    "group": "ENTERTAINMENT",
-    "key": "udptvus_cbsnewyork",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/cbschicago/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "CBS | CHICAGO",
-    "group": "ENTERTAINMENT",
-    "key": "udptvus_cbschicago",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/discovery/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Discovery",
-    "group": "DOCUMENTARY",
-    "key": "udptvus_discovery",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/disneychannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Disney Channel",
-    "group": "KIDS",
-    "key": "udptvus_disneychannel",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/espn/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "ESPN",
-    "group": "SPORTS",
-    "key": "udptvus_espn",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/espn2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "ESPN2",
-    "group": "SPORTS",
-    "key": "udptvus_espn2",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/espnnews/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "ESPN NEWS",
-    "group": "SPORTS",
-    "key": "udptvus_espnnews",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/espnu/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "ESPNU",
-    "group": "SPORTS",
-    "key": "udptvus_espnu",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/foodnetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Food Network",
-    "group": "DOCUMENTARY",
-    "key": "udptvus_foodnetwork",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/foxnews/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Fox News",
-    "group": "NEWS",
-    "key": "udptvus_foxnews",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/fox11/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "FOX11",
-    "group": "NEWS",
-    "key": "udptvus_fox11",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/fs1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "FS1",
-    "group": "FIFA WORLD CUP",
-    "key": "udptvus_fs1",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/fs2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "FS2",
-    "group": "FIFA WORLD CUP",
-    "key": "udptvus_fs2",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/fx/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "FX",
-    "group": "MOVIES",
-    "key": "udptvus_fx",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/kabc/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "KABC",
-    "group": "ENTERTAINMENT",
-    "key": "udptvus_kabc",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/knbc/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "KNBC",
-    "group": "ENTERTAINMENT",
-    "key": "udptvus_knbc",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/mgmdrivein/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "MGM+ Drive-In",
-    "group": "MOVIES",
-    "key": "udptvus_mgmdrivein",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/nationalgeographic/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "National Geographic",
-    "group": "DOCUMENTARY",
-    "key": "udptvus_nationalgeographic",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/nbcbayarea/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "NBC | BAY AREA",
-    "group": "ENTERTAINMENT",
-    "key": "udptvus_nbcbayarea",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/nbcboston/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "NBC | BOSTON",
-    "group": "ENTERTAINMENT",
-    "key": "udptvus_nbcboston",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/nbcseattle/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "NBC | SEATTLE",
-    "group": "ENTERTAINMENT",
-    "key": "udptvus_nbcseattle",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/nbatv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "NBA TV",
-    "group": "SPORTS",
-    "key": "udptvus_nbatv",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/nbcgolf/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "NBC Golf",
-    "group": "SPORTS",
-    "key": "udptvus_nbcgolf",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/syfy/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "SYFY",
-    "group": "MOVIES",
-    "key": "udptvus_syfy",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/tnt/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TNT",
-    "group": "ENTERTAINMENT",
-    "key": "udptvus_tnt",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/tnteast/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TNT East",
-    "group": "ENTERTAINMENT",
-    "key": "udptvus_tnteast",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/travelchannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Travel Channel",
-    "group": "DOCUMENTARY",
-    "key": "udptvus_travelchannel",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/wabc/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "WABC",
-    "group": "SPORTS",
-    "key": "udptvus_wabc",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/msgsportszone/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "MSG Sportszone",
-    "group": "SPORTS",
-    "key": "udptvus_msgsportszone",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/amcthrillers/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "AMC Thrillers",
-    "group": "MOVIES",
-    "key": "udptvus_amcthrillers",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/mlbnetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "MLB Network",
-    "group": "SPORTS",
-    "key": "udptvus_mlbnetwork",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/nbatvnbalp/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "NBA TV - NBALP",
-    "group": "SPORTS",
-    "key": "udptvus_nbatvnbalp",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/trutv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Tru TV",
-    "group": "SPORTS",
-    "key": "udptvus_trutv",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/tennischannel/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Tennis Channel",
-    "group": "SPORTS",
-    "key": "udptvus_tennischannel",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/telemundoboston/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TELEMUNDO | BOSTON",
-    "group": "FIFA WORLD CUP",
-    "key": "udptvus_telemundoboston",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/telemundobayarea/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TELEMUNDO | BAY AREA",
-    "group": "FIFA WORLD CUP",
-    "key": "udptvus_telemundobayarea",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/nflredzonenetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "NFL Redzone Network",
-    "group": "SPORTS",
-    "key": "udptvus_nflredzonenetwork",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/nflnetwork/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "NFL Network",
-    "group": "SPORTS",
-    "key": "udptvus_nflnetwork",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/tbseast/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "TBS East",
-    "group": "ENTERTAINMENT",
-    "key": "udptvus_tbseast",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/trueeast/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "True East",
-    "group": "ENTERTAINMENT",
-    "key": "udptvus_trueeast",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/sportsbayarea/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Sports Bay Area",
-    "group": "SPORTS",
-    "key": "udptvus_sportsbayarea",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/sportsboston/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Sports Boston",
-    "group": "SPORTS",
-    "key": "udptvus_sportsboston",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/sportscalifornia/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Sports California",
-    "group": "SPORTS",
-    "key": "udptvus_sportscalifornia",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/sportsphiladelphia/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Sports Philadelphia",
-    "group": "SPORTS",
-    "key": "udptvus_sportsphiladelphia",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://box.djdoolky76.net/stream/udptvus/spectrumsportsnet/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-    "name": "Spectrum Sportsnet+",
-    "group": "SPORTS",
-    "key": "udptvus_spectrumsportsnet",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
-    "name": "Moonbug Kids",
-    "group": "KIDS",
-    "key": "moonbug_kids",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8",
-    "name": "Vegas Life TV",
-    "group": "ENTERTAINMENT",
-    "key": "vegas_life_tv",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://streams.comclark.com/overlay/mindanow/playlist.m3u8",
-    "name": "Mindanow Network TV",
-    "group": "LOCAL",
-    "key": "mindanow_network_tv",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8",
-    "name": "BBC News Asia Pacific",
-    "group": "NEWS",
-    "key": "bbc_news_asia_pacific",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8",
-    "name": "CLTV 36",
-    "group": "LOCAL",
-    "key": "cltv_36_live",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
-    "name": "Bilyonario News Channel",
-    "group": "NEWS",
-    "key": "bilyonario_news_channel_amagi",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8",
-    "name": "EWTN Asia-Pacific",
-    "group": "RELIGIOUS",
-    "key": "ewtn_asia_pacific",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-    "name": "Arirang",
-    "group": "DOCUMENTARY",
-    "key": "arirang_akamai",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://www.bloomberg.com/media-manifest/streams/asia.m3u8",
-    "name": "Bloomberg Asia",
-    "group": "NEWS",
-    "key": "bloomberg_asia",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
-    "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-    "name": "BBC World News",
-    "group": "NEWS",
-    "key": "bbc_world_news",
-    "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
-  },
-  {
+    "label": "CGTN",
     "url": "http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
-    "name": "CGTN News Live",
-    "group": "NEWS",
-    "key": "cgtn_news_live",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8",
-    "name": "CGTN Documentaries",
-    "group": "DOCUMENTARY",
-    "key": "cgtn_documentaries",
+    "label": "TBN Asia",
+    "url": "http://136.239.158.30:6610/001/2/ch00000090990000001147/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br1gDY5x7IZ%2FDqQTvxeS3W1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001317&contentid=ch00000000000000001317&videoid=ch00000090990000001147&recommendtype=0&userid=1315480960661&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=IK7JAFC7DFXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
-    "name": "Outdoor Channel",
-    "group": "DOCUMENTARY",
-    "key": "outdoor_channel",
+    "label": "Tap TV",
+    "url": "http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8",
-    "name": "Thrillers",
-    "group": "MOVIES",
-    "key": "thrillers",
+    "label": "Tap Edge",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq%2B2uVbDOBwGF5t4YHKR5dbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001320&contentid=ch00000000000000001320&videoid=ch00000090990000001150&recommendtype=0&userid=1305735838223&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NUZJDSE8GBEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
-    "name": "Bein Sports Xtra",
-    "group": "SPORTS",
-    "key": "bein_sports_xtra",
+    "label": "Tap Sports",
+    "url": "http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1148739009053&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z6EHYVCYR3XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
-    "name": "MovieSphere",
-    "group": "MOVIES",
-    "key": "moviesphere",
+    "label": "Hallypop",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001373&contentid=ch00000000000000001373&videoid=ch00000090990000001152&recommendtype=0&userid=1181864451786&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9VC3RX5W7QLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8",
-    "name": "TFC GUAM",
-    "group": "ENTERTAINMENT",
-    "key": "tfc_guam",
+    "label": "Living Asia Channel",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001154/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001334&contentid=ch00000000000000001334&videoid=ch00000090990000001154&recommendtype=0&userid=1116046860992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2KT43TGXV8SXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
-    "name": "3ABN Kids",
-    "group": "KIDS",
-    "key": "3abn_kids",
+    "label": "SMNI Channel",
+    "url": "http://136.239.173.10:6610/001/2/ch00000090990000001155/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bop4OXrlwmfDc6Bu48vA%2B4AytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001335&contentid=ch00000000000000001335&videoid=ch00000090990000001155&recommendtype=0&userid=1436446282400&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZCER3GW1NZPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
-    "name": "Blues TV",
-    "group": "MUSIC",
-    "key": "blues_tv",
+    "label": "TV5 Monde",
+    "url": "http://136.239.158.30:6610/001/2/ch00000090990000001156/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrZbWy4P3NKKVNXe3wACXZmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001336&contentid=ch00000000000000001336&videoid=ch00000090990000001156&recommendtype=0&userid=1384915951397&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QZOPZ9VOOVLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://foxkidstv.be:3369/stream/play.m3u8",
-    "name": "Japanim TV",
-    "group": "KIDS",
-    "key": "japanim_tv",
+    "label": "France24",
+    "url": "http://136.239.158.18:6610/001/2/ch00000090990000001157/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br79DvzaC5n7CqXniN8aprYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001337&contentid=ch00000000000000001337&videoid=ch00000090990000001157&recommendtype=0&userid=1349970790575&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HLVGZN99ZDDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://magicstream.ddns.net/magicstream/stream.m3u8",
-    "name": "Magic Kids",
-    "group": "KIDS",
-    "key": "magic_kids",
+    "label": "RJTV 29",
+    "url": "http://136.239.158.10:6610/001/2/ch00000090990000001159/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BreKmZs4H3Zuj6jrvRtgmFqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001395&contentid=ch00000000000000001395&videoid=ch00000090990000001159&recommendtype=0&userid=1981697457601&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VPNC8TXZ55DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://junhls.persiana.live/hls/stream.m3u8",
-    "name": "Persiana Junior",
-    "group": "KIDS",
-    "key": "persiana_junior",
+    "label": "TV Maria",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001374&contentid=ch00000000000000001374&videoid=ch00000090990000001160&recommendtype=0&userid=1605694488407&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G669IAJA55PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://yahoo-samsung.amagi.tv/playlist.m3u8",
-    "name": "Yahoo! Finance",
-    "group": "NEWS",
-    "key": "yahoo_finance",
+    "label": "BS Fuji",
+    "url": "http://136.239.158.18:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqH%2B5l99GK8Rg%2FAZvU0C4flytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1293542013193&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FHCWZ7XXFIVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8",
-    "name": "EWTN Europe",
-    "group": "RELIGIOUS",
-    "key": "ewtn_europe",
+    "label": "DW News",
+    "url": "http://136.239.158.10:6610/001/2/ch00000090990000001166/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoTcUYwq3PMi%2FTObKiSY6bDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001377&contentid=ch00000000000000001377&videoid=ch00000090990000001166&recommendtype=0&userid=1209889128637&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=GFCSNPUV69DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   },
   {
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-    "name": "CNN",
-    "group": "NEWS",
-    "key": "cnn",
+    "label": "DZRH TV",
+    "url": "http://136.239.173.2:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BorTFLlVQhyuanlrUuZnA07ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001322&contentid=ch00000000000000001322&videoid=ch00000090990000001174&recommendtype=0&userid=1099121878948&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0UTJW5Z23XIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
     "drm": false,
-    "sys": "clearkey",
-    "clearKeys": {},
-    "proxyMode": "none"
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Oras Ng Himala",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001175/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpQqyrYGvsQGfBZz9lkpM7HytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001394&contentid=ch00000000000000001394&videoid=ch00000090990000001175&recommendtype=0&userid=1010875891030&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1G13UFJCY45XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Saudi TV",
+    "url": "http://161.49.17.2:6610/001/2/ch00000090990000001176/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqx%2BXO6kYP1duDF0CR%2BT7zbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001413&contentid=ch00000000000000001413&videoid=ch00000090990000001176&recommendtype=0&userid=1635054451771&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=17AVARI79W0IXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Rock TV of Manila",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001177/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq3IoTFSryS9b7zI0P4QXhKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001414&contentid=ch00000000000000001414&videoid=ch00000090990000001177&recommendtype=0&userid=1440892826941&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AGE6A6KKG8LXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Cartoon Network",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001178/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrybZ3RAQEBSZeKilHKlOj1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001396&contentid=ch00000000000000001396&videoid=ch00000090990000001178&recommendtype=0&userid=1894774110158&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8K2SX2J7IIWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "ALL TV",
+    "url": "http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Filam TV",
+    "url": "http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001417&contentid=ch00000000000000001417&videoid=ch00000090990000001195&recommendtype=0&userid=1009271710165&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=95UH4551P7JXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Lotus Macao",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "USA Today",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001199/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoYf5t%2B2bebnbia7IXJABLsytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001434&contentid=ch00000000000000001434&videoid=ch00000090990000001199&recommendtype=0&userid=1672704114701&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=IZGB59APCIXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "BS10",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001202/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5DOWlb1sl%2Btaq5YYAtO9QytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001421&contentid=ch00000000000000001421&videoid=ch00000090990000001202&recommendtype=0&userid=1162923937911&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DZNL8HTZEICXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Premier Sports 2",
+    "url": "http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "BS Nittele",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001213/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqVCNWul70O3g%2BsOvpld6kgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001422&contentid=ch00000000000000001422&videoid=ch00000090990000001213&recommendtype=0&userid=1829774634107&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HQFPYZNKI2XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "NHK BS",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvraU%2BA8%2FN%2B6NCam0oBPn1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001445&contentid=ch00000000000000001445&videoid=ch00000090990000001214&recommendtype=0&userid=1516257620825&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N8EJG3JY51DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Nick Jr",
+    "url": "http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "ANC",
+    "url": "http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001436&contentid=ch00000000000000001436&videoid=ch00000090990000001216&recommendtype=0&userid=1365005241451&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4U9VQT70SCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "CCTV4",
+    "url": "http://136.239.173.10:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrXm%2BLs%2BN7C0jX0KTEhSJl3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001483&contentid=ch00000000000000001483&videoid=ch00000090990000001223&recommendtype=0&userid=1235993277645&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=36FNJHET6H5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "GNN",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001234/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp6sHVPy02nySMqUY2vMm%2BjytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001523&contentid=ch00000000000000001523&videoid=ch00000090990000001234&recommendtype=0&userid=1521078532205&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EP8Z20BUC89XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Solarflix",
+    "url": "http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Celestial Classic Movies",
+    "url": "http://136.239.158.18:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8jImOa2AKrqwa1m%2FJfhceytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1537952098663&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=WEF0S27HC1HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "DZMM Teleradyo",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1574307143185&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8MHILOPG9AVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Jeepney TV",
+    "url": "http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "MYX Cignal",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "THRILL",
+    "url": "http://136.239.173.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq7M3KTlp1dzcZcVVxlNmQdytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1896007622720&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8LJ3RRPRMVYXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Cinemo!",
+    "url": "http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "KIX",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001583&contentid=ch00000000000000001583&videoid=ch00000090990000001263&recommendtype=0&userid=1319115127597&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=D4NMMH3RZQXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Metro Channel",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Cinema One",
+    "url": "http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1041236685526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=852NEU8T1ZOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Kapamilya Channel HD",
+    "url": "http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Tap Movies",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001304/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrqmX9tLke4aZIpUgreyOpNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001774&contentid=ch00000000000000001774&videoid=ch00000090990000001304&recommendtype=0&userid=1621837627360&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DE8LQ2K74YXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Tap Action Flix",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpahcUJJEYAxPtEef94INw1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1826997527749&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BJ80X0UU6VXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "CLTV 36",
+    "url": "http://136.239.159.20:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp7Iya5QVRTA1RELFN4tQIJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001814&contentid=ch00000000000000001814&videoid=ch00000090990000001314&recommendtype=0&userid=1863730940752&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=689D0763BF7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Radio Maria",
+    "url": "http://136.239.173.26:6610/001/2/ch00000090990000001327/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoMJQgjeNgI0lKcIWq2Qc67ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001815&contentid=ch00000000000000001815&videoid=ch00000090990000001327&recommendtype=0&userid=1715152829702&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4UH5RFC56HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Xingkong",
+    "url": "http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Knowledge Channel",
+    "url": "http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Al Jazeera",
+    "url": "http://136.239.173.10:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpIEgcDfK9VMvZFzWy7ZaCtytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001826&contentid=ch00000000000000001826&videoid=ch00000090990000001343&recommendtype=0&userid=1546142827579&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2USMKY0PXD5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "Edge Sports",
+    "url": "http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
+  },
+  {
+    "label": "KBS World",
+    "url": "http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
+    "drm": false,
+    "sys": "null",
+    "proxyMode": "all",
+    "proxyUrl": "https://streamvault-iptv.mashhit.workers.dev/stream-proxy?url="
   }
 ]
