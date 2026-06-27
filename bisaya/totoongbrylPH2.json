@@ -828,16 +828,6 @@
     "proxyMode": "none"
   },
   {
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd",
-    "name": "Viva Cinema",
-    "group": "movies",
-    "key": "viva_cinema",
-    "drm": true,
-    "sys": "clearkey",
-    "clearKeys": {"07aa813bf2c147748046edd930f7736e": "3bd6688b8b44e96201e753224adfc8fb"},
-    "proxyMode": "none"
-  },
-  {
     "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd",
     "name": "TMC",
     "group": "movies",
