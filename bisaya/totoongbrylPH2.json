@@ -27,13 +27,6 @@
     "proxyMode": "none"
   },
   {
-    "url": "https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd",
-    "name": "gma 7",
-    "group": "news",
-    "key": "MHA",
-    "drm": false
-  },
-  {
     "url": "https://live20.bozztv.com/giatv/giatv-animex/animex/chunks.m3u8",
     "name": "AnimeX",
     "group": "cartoons & animations",
